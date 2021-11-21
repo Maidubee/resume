@@ -1,0 +1,132 @@
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.resume {
+  display: flex;
+  margin: auto;
+  max-width: 60rem;
+  margin: 2rem;
+  background-color: rgba($color: #008000, $alpha: 0.13);
+  border-radius: 15px;
+}
+
+.employer {
+  color: green;
+  font-size: smaller;
+}
+
+.experience {
+  .subline {
+    color: gray;
+  }
+}
+
+.period {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.languages {
+  span {
+    padding: 0.5rem 0rem;
+  }
+}
+
+.contact {
+  div {
+    color: green;
+  }
+  a {
+    padding: 0.5rem 0rem;
+    color: green;
+  }
+}
+
+p {
+  text-align: justify;
+}
+
+.tag {
+  color: green;
+  font-size: smaller;
+}
+
+.skills {
+  div {
+    font-style: italic;
+  }
+}
+
+.interests {
+  div {
+    font-style: italic;
+  }
+}
+
+.languages {
+  div {
+    font-style: italic;
+  }
+}
+
+.inspirers {
+  div {
+    font-style: italic;
+  }
+}
+
+aside {
+  padding: 2rem;
+}
+
+.main {
+  padding: 0rem 4rem 3rem 4rem;
+}
+
+.profiles {
+  margin-top: 2rem;
+}

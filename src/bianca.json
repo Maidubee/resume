@@ -1,0 +1,299 @@
+{
+  "basics": {
+    "name": "Bianca Brückner",
+    "label": "IT Lead",
+    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQF-WuWUKdiU-A/profile-displayphoto-shrink_800_800/0/1520430345801?e=1642636800&v=beta&t=WXFkv9NMYCFrdjLWyR2TRo6DQ_Wysj8P4ymjfMvlKdY",
+    "email": "bianca@vanrijn.dev",
+    "phone": "",
+    "website": "https://bianca.vanrijn.dev",
+    "summary": "Female IT Leader",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Almere",
+      "countryCode": "NL",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "bianca-brückner",
+        "url": "https://www.linkedin.com/in/bianca-br%C3%BCckner/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Maidubee",
+        "url": "https://github.com/Maidubee"
+      },
+      {
+        "network": "mail",
+        "username": "bianca@vanrijn.dev",
+        "url": "mailto:bianca@vanrijn.dev"
+      },
+      {
+        "network": "website",
+        "username": "https://bianca.vanrijn.dev",
+        "url": "https://bianca.vanrijn.dev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "ING Domestic Bank",
+      "company": "ING NL",
+      "position": "IT Chapter Lead",
+      "website": "http://ing.nl",
+      "startDate": "2020",
+      "summary": "Currently I work as an IT Chapter Lead, responsible for 15 engineers, with mixed cultural background, technical understanding. My team is a mix of internal, onshore, and offshore engineers, split between NL and India. In my role I am responsible for helping my engineers grow and unfold their potential. For 30% of my time, I work in a squad as an engineer. The IT landscape consists of Java APIs, legacy applications, Pega and a multitude of DevOps tools (internal cloud, Azure DevOps).",
+      "location": "Amsterdam, NL"
+    },
+    {
+      "name": "ING Tech",
+      "company": "ING NL",
+      "position": "Information Architect & Product Owner",
+      "website": "http://ing.com",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Here I worked on an innovation project where a software prototype, specifically an analytical platform was developed. As the product owner of the project, I was highly involved in stakeholder management to spread the vision and create feedback loops with the community. My role as the architect was to design the fundamental structures of the software system, and to figure out where it fits best into the enterprise landscape. Besides that, I was also involved in the software development process to ensure that the architecture is in the innovation phase deeply intertwined with programming.  At the end of 2019 I gave a talk on graph databases and the MVP analytical platform I developed during the yearly ING Tech conference in Romania.",
+      "location": "Amsterdam, NL"
+    },
+    {
+      "name": "ING Modelbank",
+      "company": "ING ES",
+      "position": "Platform Architect",
+      "website": "http://ing.es",
+      "summary": "In my STA position I worked on a reactive microservice platform. There I was part of the development of the full-stack Architecture as well as maintaining and extending the microservice application. As a DevOps Engineer I also maintained and improved infrastructure components like virtual machines and scalable containers. Next to that I created a small platform to share self-made technical tutorials of latest technical trends and coding education. Another part was the bi-weekly creation of an architectural newsletter to ensure a good communication flow between architects and developers, as well infrastructure engineers.",
+      "startDate": "2018",
+      "endDate": "2018",
+      "location": "Madrid, Spain"
+    },
+    {
+      "name": "ING-DiBa",
+      "company": "ING Germany",
+      "position": "ITP IT Trainee",
+      "website": "http://ing.de",
+      "summary": "I rotated three times within the ING International Talent Programme to improve my knowledge about the full IT stack. My first rotation was in IT Service Management. After that, I did a rotation in Virtualization & Cloud services, where I learned about the maintenance, creation and cleaning of VMs, CPU stress testing and gathered some RHEL experience. My final rotation was as a DevOps Engineer at Continuous Delivery as a Service, where I focused on Jenkinsfiles, microservices, Docker, Groovy and Java. During this rotation I also gave a talk on Jenkins and Jenkinsfiles during the yearly ING Tech conference in Frankfurt.",
+      "startDate": "2016",
+      "endDate": "2017",
+      "location": "Frankfurt am Main & Nuremberg, Germany"
+    },
+    {
+      "name": "Siemens AG",
+      "position": "",
+      "website": "http://ing.de",
+      "summary": "Master thesis on creating a CMDB using SQL. Also, I was part of the Women in STEM talent programme of Siemens. Next to that, I worked in the CLoud Technology Expert Group.",
+      "startDate": "2014",
+      "endDate": "2016",
+      "location": "Nuremberg, Germany"
+    },
+    {
+      "name": "Dodd Family",
+      "position": "Au Pair",
+      "website": "",
+      "company": "Ireland",
+      "summary": "First working experience abroad as an au-paur in Ireland. I was responsible for three children, ranging from ages 4 to 11.",
+      "startDate": "2011",
+      "endDate": "2011",
+      "location": "Dublin, Ireland"
+    }
+  ],
+  "volunteer": [
+    {
+      "position": "Exchange Student Buddy",
+      "name": "Nuremberg Institute of Technology (GSO)",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "I volunteered for the university as a buddy for international exchange students. I helped them find their way around the German education system, the city and bureacracy (e.g. bank appointments, registering in the city).",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Otto-Friedrich-Universität Bamberg",
+      "area": "Economic Computer Science",
+      "studyType": "MSc.",
+      "startDate": "2014",
+      "endDate": "2017",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Nuremberg Institute of Technology (GSO)",
+      "area": "Economics",
+      "studyType": "B.A.",
+      "startDate": "2011",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Cume Laude Master degree",
+      "startDate": "2016",
+      "endDate": "2016",
+      "awarder": "Otto-Friedrich-Universität Bamberg"
+    },
+    {
+      "title": "Yolante: Development program for women with a STEM background",
+      "startDate": "2015",
+      "endDate": "2015",
+      "awarder": "Siemens AG",
+      "summary": "Yolante program provided trainings (social skills) and mentoring from senior IT leadership."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "React",
+      "level": "",
+      "value": 70,
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "value": 80,
+      "keywords": []
+    },
+    {
+      "name": "Neo4j",
+      "level": "",
+      "value": 80,
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "value": 80,
+      "keywords": []
+    },
+    {
+      "name": "SRE",
+      "level": "",
+      "value": 80,
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "value": 60,
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "value": 60,
+      "keywords": []
+    },
+    {
+      "name": "Scala",
+      "level": "",
+      "value": 40,
+      "keywords": []
+    }
+  ],
+  "languages": [
+    { "language": "German", "value": 100, "fluency": "Native" },
+    { "language": "English", "value": 100, "fluency": "Full Professional" },
+    { "language": "Dutch", "value": 60, "fluency": "Professional" },
+    { "language": "Spanish", "value": 50, "fluency": "Limited" }
+  ],
+  "interests": [
+    {
+      "name": "Yoga",
+      "gifUrl": "https://media.giphy.com/media/3ohzdEpNrIGhl84Gqc/giphy-downsized.gif"
+    },
+
+    {
+      "name": "Dancing",
+      "gifUrl": "https://media.giphy.com/media/SxLLHtvNANLdep1dt0/giphy.gif"
+    },
+    {
+      "name": "Cooking",
+      "gifUrl": "https://media.giphy.com/media/MU7DwSE5Ulla8/giphy.gif"
+    },
+    {
+      "name": "Books",
+      "gifUrl": "https://media.giphy.com/media/AbuQeC846WKOs/giphy.gif"
+    },
+    {
+      "name": "DIY",
+      "gifUrl": "https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized.gif"
+    }
+  ],
+  "inspirers": [
+    {
+      "name": "Brené Brown"
+    },
+
+    {
+      "name": "Simon Sinek"
+    },
+    {
+      "name": "..."
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "index": 5,
+      "startDate": { "month": 11, "year": 2019 },
+      "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
+      "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
+      "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
+      "link": "https://lovely-movie.netlify.app/",
+      "name": "Lovely Movie",
+      "endDate": "2019-12-01"
+    }
+  ],
+  "specific": {
+    "basics": {
+      "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+    },
+    "dreamJob": {
+      "locations": [{ "name": "Amsterdam, NL" }],
+      "remoteFrequency": ""
+    },
+    "currentJob": {
+      "issues": { "z": false, "boring_team": false }
+    },
+    "education": { "studiesLevel": null },
+    "work": {
+      "contractTypes": ["permanent"],
+      "codingYears": 8,
+      "codingReason": "I started coding ...",
+      "searchState": "",
+      "experienceYears": 10,
+      "codeExperienceYears": 8,
+      "otherExperienceYears": 2
+    },
+    "sound": {
+      "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+    },
+    "interestedBy": "Simon Sinek, Brene Brown, etc."
+  },
+  "resumeCustomization": {
+    "imageHeader": {
+      "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+      "alt": "Default Banner"
+    },
+    "cardsOrder": [
+      { "type": "basics", "variant": 4 },
+      { "type": "projects", "variant": 4 },
+      { "type": "skills", "variant": 0 },
+      { "type": "dreamjob", "variant": 4 },
+      { "type": "experiences", "variant": 4 },
+      { "type": "studies", "variant": 4 },
+      { "type": "gifs", "variant": 0 },
+      { "type": "interestedBy", "variant": 3 },
+      { "type": "language", "variant": 4 },
+      { "type": "soundtrack", "variant": 4 }
+    ],
+    "fields": {
+      "work": {
+        "customDateFormat": "YYYY"
+      }
+    }
+  }
+}

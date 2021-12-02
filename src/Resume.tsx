@@ -40,14 +40,14 @@ const Resume = ({ resume, style }) => {
           </section>
           <section>
             <h3 style={{ marginBottom: "0.5rem" }}>Summary</h3>
-            <p>{resume.basics.summary}</p>
+            <p style={{textAlign: "left"}}>{resume.basics.summary}</p>
           </section>
 
           {isEmpty(resume.skills) ? null : (
             <section style={{ marginBottom: "0.5em" }} className="skills">
               <h3 style={{ marginBottom: "0.5em" }}>Skills</h3>
               {(resume.skills || []).map((item, k) => (
-                <div key={k}>
+                <div key={k} style={{marginBottom: "0.3rem"}}>
                   <div>
                     {item.name}
                     <Tag>{item.level}</Tag>
@@ -67,7 +67,7 @@ const Resume = ({ resume, style }) => {
             <section style={{ marginBottom: "0.5em" }} className="languages">
               <h3 style={{ marginBottom: "0.5em" }}>Languages</h3>
               {(resume.languages || []).map((item, k) => (
-                <div key={k}>
+                <div key={k} style={{marginBottom: "0.3rem"}}>
                   <span>{item.language}</span>
                   <Tag>{item.fluency}</Tag>
                 </div>
@@ -78,7 +78,7 @@ const Resume = ({ resume, style }) => {
             <section className="interests">
               <h4 style={{ marginBottom: "0.5em" }}>Interests &amp; Hobbies</h4>
               {(resume.interests || []).map((item, k) => (
-                <div key={k}>
+                <div key={k} style={{marginBottom: "0.3rem"}}>
                   <span>{item.name}</span>
                   <div>
                     {(item.keywords || []).map((tag, k) => (
@@ -95,16 +95,9 @@ const Resume = ({ resume, style }) => {
             <section className="inspirers">
               <h3 style={{ marginBottom: "0.5em" }}>Inspired by</h3>
               {(resume.inspirers || []).map((item, k) => (
-                <div key={k}>
+                <div key={k} style={{marginBottom: "0.3rem"}}>
                   <span>{item.name}</span>
-                  <Tag>{item.description}</Tag>
-                  {/* <div>
-                    {(item.keywords || []).map((tag, k) => (
-                      <Tag key={k} color="secondary">
-                        {tag}
-                      </Tag>
-                    ))}
-                  </div> */}
+                  <div><Tag>{item.description}</Tag></div>
                 </div>
               ))}
             </section>

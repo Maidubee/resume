@@ -6,7 +6,7 @@
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
-    "summary": "Female IT Leader",
+    "summary": "IT Lead, passionate about innovation, web engineering, and people & behavioral science.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -40,7 +40,7 @@
   "work": [
     {
       "name": "ING Domestic Bank",
-      "company": "ING NL",
+      "company": "ING Netherlands",
       "position": "IT Chapter Lead",
       "website": "http://ing.nl",
       "startDate": "2020",
@@ -48,21 +48,30 @@
       "location": "Amsterdam, NL"
     },
     {
+      "name": "Stippl",
+      "company": "Stippl.io",
+      "position": "Web/Mobile developer",
+      "website": "https://www.stippl.io",
+      "startDate": "2020",
+      "summary": "Parttime developer for stippl.io, the company founded by my husband. ",
+      "location": "Amsterdam, NL"
+    },
+    {
       "name": "ING Tech",
-      "company": "ING NL",
+      "company": "ING Netherlands",
       "position": "Information Architect & Product Owner",
       "website": "http://ing.com",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "Here I worked on an innovation project where a software prototype, specifically an analytical platform was developed. As the product owner of the project, I was highly involved in stakeholder management to spread the vision and create feedback loops with the community. My role as the architect was to design the fundamental structures of the software system, and to figure out where it fits best into the enterprise landscape. Besides that, I was also involved in the software development process to ensure that the architecture is in the innovation phase deeply intertwined with programming.  At the end of 2019 I gave a talk on graph databases and the MVP analytical platform I developed during the yearly ING Tech conference in Romania.",
+      "summary": "I implemented a software prototype on an innovation project. More specifically, I built an internal analytical platform to visualize and analyze the internal API & interface landscape, and their respective communication flows. After the prototype was deemed to be succesful, I built up an engineering team with the skillset to release a first MVP to production. I became the product owner of the project, where I was highly involved in stakeholder management to spread the vision, and created feedback loops with the community. My role as the architect was to design the fundamental structures of the software system, and to figure out where it fits best into the enterprise landscape. Besides that, I was also involved in the software development as a fullstack DevOps engineer. At the end of 2019 I gave a talk on graph databases and the MVP analytical platform during the yearly ING Tech conference in Romania.",
       "location": "Amsterdam, NL"
     },
     {
       "name": "ING Modelbank",
-      "company": "ING ES",
+      "company": "ING Spain",
       "position": "Platform Architect",
       "website": "http://ing.es",
-      "summary": "In my STA position I worked on a reactive microservice platform. There I was part of the development of the full-stack Architecture as well as maintaining and extending the microservice application. As a DevOps Engineer I also maintained and improved infrastructure components like virtual machines and scalable containers. Next to that I created a small platform to share self-made technical tutorials of latest technical trends and coding education. Another part was the bi-weekly creation of an architectural newsletter to ensure a good communication flow between architects and developers, as well infrastructure engineers.",
+      "summary": "In my STA position I worked on a reactive microservice platform. There I was part of the development of the full-stack Architecture as well as maintaining and extending the microservice application. As a DevOps Engineer I also maintained and improved infrastructure components like virtual machines and scalable containers. Next to that I created a small platform to share self-made technical tutorials of latest technical trends and coding education.",
       "startDate": "2018",
       "endDate": "2018",
       "location": "Madrid, Spain"
@@ -79,8 +88,9 @@
     },
     {
       "name": "Siemens AG",
-      "position": "",
+      "position": "Young Professional IT",
       "website": "http://ing.de",
+      "organization": "Siemens Germany",
       "summary": "Master thesis on creating a CMDB using SQL. Also, I was part of the Women in STEM talent programme of Siemens. Next to that, I worked in the CLoud Technology Expert Group.",
       "startDate": "2014",
       "endDate": "2016",
@@ -101,6 +111,7 @@
     {
       "position": "Exchange Student Buddy",
       "name": "Nuremberg Institute of Technology (GSO)",
+      "organization": "Nuremberg Institute of Technology (GSO)",
       "startDate": "2013",
       "endDate": "2014",
       "summary": "I volunteered for the university as a buddy for international exchange students. I helped them find their way around the German education system, the city and bureacracy (e.g. bank appointments, registering in the city).",
@@ -109,7 +120,7 @@
   ],
   "education": [
     {
-      "institution": "Otto-Friedrich-Universität Bamberg",
+      "institution": "University of Bamberg",
       "area": "Economic Computer Science",
       "studyType": "MSc.",
       "startDate": "2014",
@@ -131,72 +142,71 @@
     {
       "name": "Think Forward Leadership Experience (TFLE)",
       "organization": "ING",
-      "summary": "TFLE  has been designed to help ING managers take their skillsets to the next level. Within four months there are series of group activities and self-steered online forums as well as one-one coaching to identify and build on the existing leadership skills.",
-      "highlights": [""]
+      "summary": "TFLE  has been designed to help ING managers take their skillsets to the next level. Within four months there are series of group activities and self-steered online forums as well as one-one coaching to identify and build on the existing leadership skills."
     },
 
     {
-      "name": "3-Day HackCamp React",
+      "name": "React",
       "organization": "Hackages",
-      "summary": " ",
-      "highlights": [""]
+      "summary": "3-day classroom training (HackCamp) by Hackages in Brussels"
     },
     {
       "name": "Neo4j training",
-      "organization": "Inhouse training ING",
-      "summary": " ",
-      "highlights": [""]
+      "organization": "ING",
+      "summary": "Inhouse training organized by ING"
     },
     {
       "name": "MERN Stack Front to Back",
       "organization": "Udemy",
-      "summary": "Full Stack React, Redux & Node.js",
-      "highlights": [""]
+      "summary": "Full Stack React, Redux & Node.js"
     },
     {
       "name": "Functional Program Design in Scala",
-      "organization": "coursera",
-      "summary": " ",
-      "highlights": [""]
+      "organization": "Coursera",
+      "summary": "Hands-on introduction to functional programming using Scala. Ranging from basic building blocks of the functional paradigm, to building to larger functional programs. Instructed by Martin Odersky."
     },
     {
       "name": "Functional Programming Principles in Scala",
-      "organization": "coursera",
-      "summary": " ",
-      "highlights": [""]
+      "organization": "Coursera",
+      "summary": "Hands-on introduction to functional programming using Scala. Ranging from basic building blocks of the functional paradigm, to building to larger functional programs. Instructed by Martin Odersky."
     },
     {
       "name": "Docker Security & (Sec) DevOps",
       "organization": "HM Training Solutions",
-      "summary": "Docker, Container & Linux Isolation, DevOps, MicroServices & CI/CD",
-      "highlights": [""]
+      "summary": "Docker, Container & Linux Isolation, DevOps, MicroServices & CI/CD"
     },
     {
-      "name": "Professional Scrum Master I",
+      "name": "Professional Scrum Master (PSM) I",
       "organization": "Scrum.org",
-      "summary": "",
-      "highlights": [""]
+      "summary": "3-day training organized by ING, after which I completed the PSM I certification"
     },
     {
       "name": "ITIL Foundation Certifiate in IT Service Managment",
       "organization": "Axelos",
-      "summary": "",
+      "summary": "3-day training organized by ING, after which I completed the ITIL certification"
+    },
+    {
+      "name": "IT Trainee Program ING",
+      "organization": "ING",
+      "summary": "The trainee program provided 3 global learning events with different sessions and trainings about personal growth and leadership skills, as well as the opportunity to work abroad.",
       "highlights": [""]
     }
   ],
 
   "awards": [
     {
-      "title": "Cume Laude Master degree",
+      "title": "Cum Laude Master degree",
       "startDate": "2016",
       "endDate": "2016",
-      "awarder": "Otto-Friedrich-Universität Bamberg"
+      "awarder": "Otto-Friedrich-Universität Bamberg",
+      "organization": "Otto-Friedrich-Universität Bamberg"
     },
     {
       "title": "Yolante: Development program for women with a STEM background",
       "startDate": "2015",
       "endDate": "2015",
       "awarder": "Siemens AG",
+      "organization": "Siemens AG",
       "summary": "Yolante program provided trainings (social skills) and mentoring from senior IT leadership."
     }
   ],
@@ -227,7 +237,7 @@
       "keywords": []
     },
     {
-      "name": "SRE",
+      "name": "SRE e.g.Azure",
       "level": "",
       "value": 80,
       "keywords": []
@@ -278,33 +288,37 @@
     {
       "name": "DIY",
       "gifUrl": "https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized.gif"
+    },
+    {
+      "name": "Gardening",
+      "gifUrl": "https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized.gif"
     }
   ],
   "inspirers": [
     {
       "name": "Brené Brown",
-      "description": "tag"
+      "description": "Dare to Lead"
     },
 
     {
       "name": "Simon Sinek",
-      "description": "tag"
+      "description": "Podcast"
     },
     {
       "name": "Stephen R. Covey",
-      "description": "tag"
+      "description": "The 7 Habits of Highly Effective People"
     },
     {
       "name": "Kent C. Dodds",
-      "description": "tag"
+      "description": "Tech Influencer on websites and React"
     },
     {
       "name": "Hacker News",
-      "description": "tag"
+      "description": "Social news website focusing on technology "
     },
     {
       "name": "Kim Scott",
-      "description": "tag"
+      "description": "Radical Candor"
     }
   ],
   "references": [],

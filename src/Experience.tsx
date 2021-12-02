@@ -5,7 +5,7 @@ import Timeline from "./Timeline";
 const Experience = ({ items, header }) =>
   isEmpty(items) ? null : (
     <section style={{ marginTop: "0.5em" }} className="experience">
-      <h3 style={{ marginBottom: "0.5em" }}>{header}</h3>
+      <h2 style={{ marginBottom: "0.5em" }}>{header}</h2>
       {items.map((item, k) => (
         <article key={k} style={{ position: "relative" }}>
           {items.length === 1 ? null : <Timeline isLast={k === items.length - 1} />}

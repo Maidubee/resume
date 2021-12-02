@@ -127,6 +127,64 @@
       "courses": []
     }
   ],
+  "trainings": [
+    {
+      "name": "Think Forward Leadership Experience (TFLE)",
+      "organization": "ING",
+      "summary": "TFLE  has been designed to help ING managers take their skillsets to the next level. Within four months there are series of group activities and self-steered online forums as well as one-one coaching to identify and build on the existing leadership skills.",
+      "highlights": [""]
+    },
+
+    {
+      "name": "3-Day HackCamp React",
+      "organization": "Hackages",
+      "summary": " ",
+      "highlights": [""]
+    },
+    {
+      "name": "Neo4j training",
+      "organization": "Inhouse training ING",
+      "summary": " ",
+      "highlights": [""]
+    },
+    {
+      "name": "MERN Stack Front to Back",
+      "organization": "Udemy",
+      "summary": "Full Stack React, Redux & Node.js",
+      "highlights": [""]
+    },
+    {
+      "name": "Functional Program Design in Scala",
+      "organization": "coursera",
+      "summary": " ",
+      "highlights": [""]
+    },
+    {
+      "name": "Functional Programming Principles in Scala",
+      "organization": "coursera",
+      "summary": " ",
+      "highlights": [""]
+    },
+    {
+      "name": "Docker Security & (Sec) DevOps",
+      "organization": "HM Training Solutions",
+      "summary": "Docker, Container & Linux Isolation, DevOps, MicroServices & CI/CD",
+      "highlights": [""]
+    },
+    {
+      "name": "Professional Scrum Master I",
+      "organization": "Scrum.org",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "ITIL Foundation Certifiate in IT Service Managment",
+      "organization": "Axelos",
+      "summary": "",
+      "highlights": [""]
+    }
+  ],
+
   "awards": [
     {
       "title": "Cume Laude Master degree",
@@ -224,14 +282,29 @@
   ],
   "inspirers": [
     {
-      "name": "Brené Brown"
+      "name": "Brené Brown",
+      "description": "tag"
     },
 
     {
-      "name": "Simon Sinek"
+      "name": "Simon Sinek",
+      "description": "tag"
     },
     {
-      "name": "..."
+      "name": "Stephen R. Covey",
+      "description": "tag"
+    },
+    {
+      "name": "Kent C. Dodds",
+      "description": "tag"
+    },
+    {
+      "name": "Hacker News",
+      "description": "tag"
+    },
+    {
+      "name": "Kim Scott",
+      "description": "tag"
     }
   ],
   "references": [],
@@ -241,7 +314,9 @@
       "startDate": { "month": 11, "year": 2019 },
       "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
       "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
-      "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
+      "images": [
+        { "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }
+      ],
       "link": "https://lovely-movie.netlify.app/",
       "name": "Lovely Movie",
       "endDate": "2019-12-01"

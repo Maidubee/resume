@@ -3,6 +3,7 @@ import Experience from "./Experience";
 import Tag from "./Tag";
 import Icon from "./Icon";
 import { isEmpty } from "./functions";
+import Trainings from "./Trainings";
 
 const Resume = ({ resume, style }) => {
   return (
@@ -75,7 +76,7 @@ const Resume = ({ resume, style }) => {
           )}
           {isEmpty(resume.interests) ? null : (
             <section className="interests">
-              <h3 style={{ marginBottom: "0.5em" }}>Interests &amp; Hobbies</h3>
+              <h4 style={{ marginBottom: "0.5em" }}>Interests &amp; Hobbies</h4>
               {(resume.interests || []).map((item, k) => (
                 <div key={k}>
                   <span>{item.name}</span>
@@ -96,13 +97,14 @@ const Resume = ({ resume, style }) => {
               {(resume.inspirers || []).map((item, k) => (
                 <div key={k}>
                   <span>{item.name}</span>
-                  <div>
+                  <Tag>{item.description}</Tag>
+                  {/* <div>
                     {(item.keywords || []).map((tag, k) => (
                       <Tag key={k} color="secondary">
                         {tag}
                       </Tag>
                     ))}
-                  </div>
+                  </div> */}
                 </div>
               ))}
             </section>
@@ -116,6 +118,7 @@ const Resume = ({ resume, style }) => {
           <Experience header="Work Experience" items={resume.work || []} />
           <Experience header="Volunteering" items={resume.volunteer || []} />
           <Experience header="Awards" items={resume.awards || []} />
+           <Trainings trainings={resume.trainings || []} />
           <Education education={resume.education || []} />
         </section>
       </div>

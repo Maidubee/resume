@@ -2,7 +2,7 @@
   "basics": {
     "name": "Bianca Brückner",
     "label": "IT Lead",
-    "picture": "https://media-exp1.licdn.com/dms/image/C5603AQF-WuWUKdiU-A/profile-displayphoto-shrink_800_800/0/1520430345801?e=1655942400&v=beta&t=V0cdS0p4l8501mCsNVXyTlL_A9MOEX4RXhV0SJK0Wb4",
+    "picture": "https://media.licdn.com/dms/image/C5603AQF-WuWUKdiU-A/profile-displayphoto-shrink_800_800/0/1520430346795?e=1719446400&v=beta&t=LJnF1eOIT413m4_w6Y5M_nf0FHE9UIMl6KhwCiXLDxg",
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
@@ -53,6 +53,7 @@
       "position": "IT Chapter Lead",
       "website": "http://ing.nl",
       "startDate": "2020",
+      "endDate": "2022",
       "summary": "In my previous role as Engineering Manager  (IT Chapter Lead), I directed a diverse team of 15-19 engineers based in the Netherlands and India. This team included internal, onshore, and offshore professionals, requiring effective cross-cultural leadership. I was responsible for their professional development, helping each engineer to realise their full potential despite the challenges of a geographically and functionally dispersed team structure. I initiated the development of a 'Testing as a Service' team from the ground up, addressing a critical gap by providing essential end-to-end testing services and elevating testing practices across all teams within the track. This initiative significantly reduced technical debt by prioritising quality and operational excellence. The technical environment I managed included Java APIs, legacy systems, Pega, and an array of DevOps tools, encompassing both internal cloud solutions and Azure DevOps. My strategic leadership extended to organising and facilitating activities involving over 120 participants, ensuring alignment and awareness of progress across different teams. Additionally, I collaborated closely with a designated risk manager for approximately nine months to address 800 findings from a comprehensive risk assessment. This effort included implementing regular risk meetings, designating risk champions within each team, and disseminating weekly risk updates through a newsletter. I also developed a custom dashboard to monitor all controls, which became a critical resource shared across multiple tracks, enhancing our overall risk management framework.",
       "location": "Amsterdam, NL"
     },

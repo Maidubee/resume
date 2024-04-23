@@ -39,12 +39,21 @@
   },
   "work": [
     {
+      "name": "Booking",
+      "company": "Booking",
+      "position": "Engineering Manager",
+      "website": "http://booking.com",
+      "startDate": "2022",
+      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy for the next 3-5 years, aiming to extend our messaging platform across multiple business units. This strategic planning is conducted in collaboration with designers, risk/security professionals, a program manager, and solution and enterprise architects. Concurrently, I am in charge of leading efforts to modernise legacy services to bolster system reliability. Next to that, I ensure that my team as well as the broader track  is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the 'Request to Book' feature over several teams, aligning our offerings with industry benchmarks. Moreover my team is among the first four teams to successfully implement a generative AI use case in production. Alongside my technical responsibilities, I am in charge of mentoring three other Engineering Managers, focusing on enhancing skills in feedback delivery, managing challenging conversations. Furthermore, as my stretch goal, actively participating in a company-wide initiative, contributing to the rollout of 34 new controls and establishing new processes amidst high ambiguity.",
+      "location": "Amsterdam, NL"
+    },
+    {
       "name": "ING Domestic Bank",
       "company": "ING Netherlands",
       "position": "IT Chapter Lead",
       "website": "http://ing.nl",
       "startDate": "2020",
-      "summary": "Currently I work as an IT Chapter Lead, responsible for 15 engineers, with mixed cultural background, technical understanding. My team is a mix of internal, onshore, and offshore engineers, split between NL and India. In my role I am responsible for helping my engineers grow and unfold their potential. For 30-40% of my time, I work in a squad as an engineer. The IT landscape consists of Java APIs, legacy applications, Pega and a multitude of DevOps tools (internal cloud, Azure DevOps).",
+      "summary": "In my previous role as Engineering Manager  (IT Chapter Lead), I directed a diverse team of 15-19 engineers based in the Netherlands and India. This team included internal, onshore, and offshore professionals, requiring effective cross-cultural leadership. I was responsible for their professional development, helping each engineer to realise their full potential despite the challenges of a geographically and functionally dispersed team structure. I initiated the development of a 'Testing as a Service' team from the ground up, addressing a critical gap by providing essential end-to-end testing services and elevating testing practices across all teams within the track. This initiative significantly reduced technical debt by prioritising quality and operational excellence. The technical environment I managed included Java APIs, legacy systems, Pega, and an array of DevOps tools, encompassing both internal cloud solutions and Azure DevOps. My strategic leadership extended to organising and facilitating activities involving over 120 participants, ensuring alignment and awareness of progress across different teams. Additionally, I collaborated closely with a designated risk manager for approximately nine months to address 800 findings from a comprehensive risk assessment. This effort included implementing regular risk meetings, designating risk champions within each team, and disseminating weekly risk updates through a newsletter. I also developed a custom dashboard to monitor all controls, which became a critical resource shared across multiple tracks, enhancing our overall risk management framework.",
       "location": "Amsterdam, NL"
     },
     {
@@ -53,7 +62,8 @@
       "position": "Web/Mobile developer",
       "website": "https://www.stippl.io",
       "startDate": "2020",
-      "summary": "Parttime developer for stippl.io, the company founded by my husband. ",
+      "endDate": "2022",
+      "summary": "Parttime developer for stippl.io, the company ",
       "location": "Amsterdam, NL"
     },
     {
@@ -63,7 +73,7 @@
       "website": "http://ing.com",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "I implemented a software prototype on an innovation project. More specifically, I built an internal analytical platform to visualize and analyze the internal API & interface landscape, and their respective communication flows. After the prototype was deemed to be succesful, I built up an engineering team with the skillset to release a first MVP to production. I became the product owner of the project, where I was highly involved in stakeholder management to spread the vision, and created feedback loops with the community. My role as the architect was to design the fundamental structures of the software system, and to figure out where it fits best into the enterprise landscape. Besides that, I was also involved in the software development as a fullstack DevOps engineer. At the end of 2019 I gave a talk on graph databases and the MVP analytical platform during the yearly ING Tech conference in Romania.",
+      "summary": "As a senior leader on an innovative software project, I spearheaded the development of a cutting-edge internal analytical platform, designed to visualize and analyze our API and interface landscape along with their communication flows. Following a successful prototype demonstration, I established and led a multidisciplinary engineering team to develop and deploy the first Minimum Viable Product (MVP) into production. In my role as Product Owner, I excelled in stakeholder management, effectively communicating the project's vision and establishing robust feedback loops with the community to enhance product features and user experience. My architectural responsibilities entailed designing the foundational structures of the software system, strategically integrating it within the broader enterprise ecosystem. Additionally, I contributed hands-on as a full-stack DevOps engineer, ensuring the seamless operation and scalability of the platform. Highlighting my expertise, I presented on graph databases and our MVP at the ING Tech Conference in Romania in 2019, demonstrating the project's success and impact",
       "location": "Amsterdam, NL"
     },
     {
@@ -71,7 +81,7 @@
       "company": "ING Spain",
       "position": "Platform Architect",
       "website": "http://ing.es",
-      "summary": "In my STA position I worked on a reactive microservice platform. There I was part of the development of the full-stack Architecture as well as maintaining and extending the microservice application. As a DevOps Engineer I also maintained and improved infrastructure components like virtual machines and scalable containers. Next to that I created a small platform to share self-made technical tutorials of latest technical trends and coding education.",
+      "summary": "In my nine-month short-term assignment, I contributed to the development and maintenance of a reactive microservice platform designed for full-stack architecture. This platform was strategically developed to be deployed across five target countries. To ensure a successful rollout, I created a resource platform featuring self-produced technical tutorials on the latest technological trends and coding education. Additionally, I authored a comprehensive playbook for the five countries, guiding them in replicating and launching the same multi-tenant microservices architecture in diverse locations.",
       "startDate": "2018",
       "endDate": "2018",
       "location": "Madrid, Spain"
@@ -139,6 +149,24 @@
     }
   ],
   "trainings": [
+    {
+      "name": "Management People Program and B.Champion ",
+      "organization": "Booking",
+      "summary": "Both are internal B programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, and stakeholder management. The B.Champion program, also an internal initiative, specifically targets women in IT to assist with career progression."
+    },
+
+    {
+      "name": "AWS foundation ",
+      "organization": "Booking",
+      "summary": "Architectural foundations of AWS"
+    },
+
+    {
+      "name": "GraphQL Developer Associate ",
+      "organization": "Booking",
+      "summary": "Completed to build solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server, and perform queries with Apollo Client on the frontend."
+    },
+
     {
       "name": "Think Forward Leadership Experience (TFLE)",
       "organization": "ING",

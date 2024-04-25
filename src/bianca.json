@@ -6,7 +6,7 @@
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
-    "summary": "IT Lead, passionate about innovation, web engineering, and people & behavioral science.",
+    "summary": "IT Lead, passionate about tech innovation, web engineering, and people & behavioral science.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -80,9 +80,9 @@
     {
       "name": "ING Modelbank",
       "company": "ING Spain",
-      "position": "Platform Architect",
+      "position": "Platform Architect in a global program",
       "website": "http://ing.es",
-      "summary": "In my nine-month short-term assignment, I contributed to the development and maintenance of a reactive microservice platform designed for full-stack architecture. This platform was strategically developed to be deployed across five target countries. To ensure a successful rollout, I created a resource platform featuring self-produced technical tutorials on the latest technological trends and coding education. Additionally, I authored a comprehensive playbook for the five countries, guiding them in replicating and launching the same multi-tenant microservices architecture in diverse locations.",
+      "summary": "In my short-term assignment, I contributed to the development and maintenance of a reactive microservice platform designed for full-stack architecture. This platform was strategically developed to be deployed across five target countries as a part of a company-wide program. To ensure a successful rollout, I created a resource platform featuring self-produced technical tutorials on the latest technological trends and coding education. Additionally, I authored a comprehensive playbook for the five countries, guiding them in replicating and launching the same multi-tenant microservices architecture in diverse locations.",
       "startDate": "2018",
       "endDate": "2018",
       "location": "Madrid, Spain"
@@ -90,9 +90,9 @@
     {
       "name": "ING-DiBa",
       "company": "ING Germany",
-      "position": "ITP IT Trainee",
+      "position": "ITP IT Trainee (Software engineering track)",
       "website": "http://ing.de",
-      "summary": "I rotated three times within the ING International Talent Programme to improve my knowledge about the full IT stack. My first rotation was in IT Service Management. After that, I did a rotation in Virtualization & Cloud services, where I learned about the maintenance, creation and cleaning of VMs, CPU stress testing and gathered some RHEL experience. My final rotation was as a DevOps Engineer at Continuous Delivery as a Service, where I focused on Jenkinsfiles, microservices, Docker, Groovy and Java. During this rotation I also gave a talk on Jenkins and Jenkinsfiles during the yearly ING Tech conference in Frankfurt.",
+      "summary": "Participated in the ING International Talent Programme, completing three rotations to enhance my proficiency across the full IT stack. Initially, I worked in IT Service Management, focusing on Incident and ITIL processes designed for implementation across multiple teams. My second rotation involved Virtualization & Cloud Services, where I honed skills in VM management, CPU stress testing, and gained valuable RHEL experience. In my final rotation as a DevOps Engineer at Continuous Delivery as a Service, I specialized in Jenkinsfiles, microservices, Docker, Groovy, and Java. I also presented on Jenkins and Jenkinsfiles at the annual ING Tech Conference in Frankfurt, showcasing our advances in continuous delivery practices.",
       "startDate": "2016",
       "endDate": "2017",
       "location": "Frankfurt am Main & Nuremberg, Germany"
@@ -102,7 +102,7 @@
       "position": "Young Professional IT",
       "website": "http://ing.de",
       "organization": "Siemens Germany",
-      "summary": "Master thesis on creating a CMDB using SQL. Also, I was part of the Women in STEM talent programme of Siemens. Next to that, I worked in the CLoud Technology Expert Group.",
+      "summary": "Developed a Configuration Management Database (CMDB) using SQL for my Master's thesis, focusing on improving data management and accessibility. Participated in Siemens' Women in STEM talent program, aimed at fostering diversity and enhancing professional development in the technology sector. Contributed to the Cloud Technology Expert Group, working on critical technology initiatives. Additionally, I was involved in the company's inaugural trial of agile methodologies, where I researched and disseminated best practices and processes to facilitate the adoption of agile workflows.",
       "startDate": "2012",
       "endDate": "2016",
       "location": "Nuremberg, Germany"
@@ -328,7 +328,6 @@
       "name": "Brené Brown",
       "description": "Dare to Lead"
     },
-
     {
       "name": "Simon Sinek",
       "description": "Podcast"
@@ -338,12 +337,16 @@
       "description": "The 7 Habits of Highly Effective People"
     },
     {
-      "name": "Kent C. Dodds",
-      "description": "Tech Influencer on websites and React"
+      "name": "daily.dev",
+      "description": "Personalized news feed, dev community and search"
     },
     {
       "name": "Hacker News",
       "description": "Social news website focusing on technology "
+    },
+    {
+      "name": "Gregor Hohpe",
+      "description": "The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise"
     },
     {
       "name": "Kim Scott",

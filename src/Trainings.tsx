@@ -8,10 +8,16 @@ const Trainings = ({ trainings }) =>
       <h2 style={{ marginBottom: "0.5em" }}>Trainings</h2>
       {trainings.map((training, k) => (
         <article key={k} style={{ position: "relative" }}>
-          {training.length === 1 ? null : <Timeline isLast={k === training.length - 1} />}
-          <h3 style={{ marginBottom: 0 }}>{training.name}
-           <span className="name"> at {training.organization}</span>
-           </h3>
+          {training.length === 1 ? null : (
+            <Timeline isLast={k === training.length - 1} />
+          )}
+          <h3 style={{ marginBottom: 0 }}>
+            {training.name}
+            <span className="name">
+              {" "}
+              {training.organization ? "at" : null} {training.organization}
+            </span>
+          </h3>
           <h5
             style={{
               margin: "2px 0",
@@ -23,7 +29,10 @@ const Trainings = ({ trainings }) =>
               {training.website}
             </a>
           </h5>
-          <p>{training.summary}</p>
+          <p
+            dangerouslySetInnerHTML={{ __html: training.summary }}
+            style={{ listStyleType: "none" }}
+          />
         </article>
       ))}
     </section>

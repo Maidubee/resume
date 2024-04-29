@@ -155,70 +155,19 @@
       "organization": "Booking",
       "summary": "Both are internal Booking.com programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, influencing organizations and stakeholder management. The B.Champion program, specifically targets women in IT to assist with career progression."
     },
-
     {
-      "name": "AWS foundation ",
-      "organization": "Coursera",
-      "summary": "Architectural foundations of AWS"
-    },
-
-    {
-      "name": "GraphQL Developer Associate ",
-      "organization": "Apollo Graph Developer",
-      "summary": "Completed to build solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server, and perform queries with Apollo Client on the frontend."
-    },
-
-    {
-      "name": "Think Forward Leadership Experience (TFLE)",
+      "name": "Think Forward Leadership Experience ",
       "organization": "ING",
-      "summary": "TFLE  has been designed to help ING managers take their skillsets to the next level. Within four months there are series of group activities and self-steered online forums as well as one-one coaching to identify and build on the existing leadership skills."
-    },
-
-    {
-      "name": "React",
-      "organization": "Hackages",
-      "summary": "3-day classroom training (HackCamp) by Hackages in Brussels"
-    },
-    {
-      "name": "Neo4j training",
-      "organization": "ING",
-      "summary": "Inhouse training organized by ING"
-    },
-    {
-      "name": "MERN Stack Front to Back",
-      "organization": "Udemy",
-      "summary": "Full Stack React, Redux & Node.js"
-    },
-    {
-      "name": "Functional Program Design in Scala",
-      "organization": "Coursera",
-      "summary": "Hands-on introduction to functional programming using Scala. Ranging from basic building blocks of the functional paradigm, to building to larger functional programs. Instructed by Martin Odersky."
-    },
-    {
-      "name": "Functional Programming Principles in Scala",
-      "organization": "Coursera",
-      "summary": "Hands-on introduction to functional programming using Scala. Ranging from basic building blocks of the functional paradigm, to building to larger functional programs. Instructed by Martin Odersky."
-    },
-    {
-      "name": "Docker Security & (Sec) DevOps",
-      "organization": "HM Training Solutions",
-      "summary": "Docker, Container & Linux Isolation, DevOps, MicroServices & CI/CD"
-    },
-    {
-      "name": "Professional Scrum Master (PSM) I",
-      "organization": "Scrum.org",
-      "summary": "3-day training organized by ING, after which I completed the PSM I certification"
-    },
-    {
-      "name": "ITIL Foundation Certifiate in IT Service Managment",
-      "organization": "Axelos",
-      "summary": "3-day training organized by ING, after which I completed the ITIL certification"
+      "summary": "Designed to help ING managers take their skillsets to the next level. Within four months there are series of group activities and self-steered online forums as well as one-one coaching to identify and build on the existing leadership skills."
     },
     {
       "name": "ING International Talent Programme",
       "organization": "ING",
-      "summary": "The international talent programme provided 3 global learning events with different sessions and trainings about personal growth and leadership skills, as well as the opportunity to work abroad.",
-      "highlights": [""]
+      "summary": "The international talent programme provided 3 global learning events with different sessions and trainings about personal growth and leadership skills, as well as the opportunity to work abroad."
+    },
+    {
+      "name": "Other trainings",
+      "summary": "For other trainings (& certifications) on leadership and engineering skills, see my LinkedIn profile. <li>📚 Introduction to Generative AI </li><li>📚 Hiring and Supporting Neurodiversity in the Workplace </li><li>📚 AWS Foundation </li><li>📚 GraphQL Developer Associate </li><li>📚 React </li> <li>📚 Neo4j </li><li>📚 MERN Stack Front to Back </li><li>📚 Functional Program Design in Scala </li><li>📚 Functional Programming Principles in Scala </li><li>📚 Docker Security & DevSecOps </li><li>📚 Professional Scrum Master (PSM) I </li><li>📚 ITIL Foundation Certifiate in IT Service Management</li>"
     }
   ],
 

@@ -6,7 +6,7 @@
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
-    "summary": "IT Lead, passionate about tech innovation, web engineering, and people & behavioral science.",
+    "summary": "IT Lead, passionate about web development, organizational/team health and people & behavioral science.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -44,7 +44,9 @@
       "position": "Engineering Manager",
       "website": "http://booking.com",
       "startDate": "2022",
-      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy for the next 3-5 years, aiming to extend our messaging platform across multiple business units. This strategic planning is conducted in collaboration with designers, risk/security professionals, a program manager, and solution and enterprise architects. Concurrently, I am in charge of leading efforts to modernise legacy services to bolster system reliability. Next to that, I ensure that my team as well as the broader track  is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the 'Request to Book' feature over several teams, aligning our offerings with industry benchmarks. Moreover my team is among the first four teams to successfully implement a generative AI use case in production. Alongside my technical responsibilities, I am in charge of mentoring three other Engineering Managers, focusing on enhancing skills in feedback delivery, managing challenging conversations. Furthermore, as my stretch goal, actively participating in a company-wide initiative, contributing to the rollout of 34 new controls and establishing new processes amidst high ambiguity.",
+      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy, with an interdisciplinary group of experts for the next 3-5 years, aiming to extend our messaging platform across multiple business units to deliver large-scale technical solutions. Concurrently, I am in charge of leading efforts to modernise legacy services within my team and the department to bolster system reliability and to create a culture that encourages teams to continuously improve.
+      Besides that, I ensure that my team as well as the broader department is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the new 'Request to Book' feature across several teams, aligning our offerings with industry benchmarks and to meet the needs of the customers. Moreover, my team is among the first four teams to successfully implement a generative AI use case in production, positioning my team as innovators. Alongside my technical responsibilities, I am in charge of mentoring two other Engineering Managers, focusing on enhancing skills in feedback delivery and managing challenging conversations. As a stretch goal, I am participating in a company-wide technical initiative called Shift Left to help achieve company-level objectives. This initiative reports up to the VP level Part of the initiative is to gradually roll out new controls within 2024 and establish new processes amidst high ambiguity.
+      ",
       "location": "Amsterdam, NL"
     },
     {
@@ -74,7 +76,7 @@
       "website": "http://ing.com",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "As a senior leader on an innovative software project, I spearheaded the development of a cutting-edge internal analytical platform, designed to visualize and analyze our API and interface landscape along with their communication flows. Following a successful prototype demonstration, I established and led a multidisciplinary engineering team to develop and deploy the first Minimum Viable Product (MVP) into production. In my role as Product Owner, I excelled in stakeholder management, effectively communicating the project's vision and establishing robust feedback loops with the community to enhance product features and user experience. My architectural responsibilities entailed designing the foundational structures of the software system, strategically integrating it within the broader enterprise ecosystem. Additionally, I contributed hands-on as a full-stack DevOps engineer, ensuring the seamless operation and scalability of the platform. Highlighting my expertise, I presented on graph databases and our MVP at the ING Tech Conference in Romania in 2019, demonstrating the project's success and impact",
+      "summary": "As a leader on an innovative software project, I spearheaded the development of a cutting-edge internal analytical platform, designed to visualise and analyse our API and interface landscape along with their communication flows. Following a successful prototype demonstration, I established and led a multidisciplinary engineering team to develop and deploy the first Minimum Viable Product (MVP) into production. In my role as Product Owner, I excelled in stakeholder management, effectively communicating the project's vision and establishing robust feedback loops with the community to enhance product features and user experience. My architectural responsibilities entailed designing the foundational structures of the software system, strategically integrating it within the broader enterprise ecosystem. Additionally, I contributed hands-on as a full-stack DevOps engineer, ensuring the seamless operation and scalability of the platform. Highlighting my expertise, I presented on graph databases and our MVP at the ING Tech Conference in Romania in 2019, demonstrating the project's success and impact",
       "location": "Amsterdam, NL"
     },
     {
@@ -241,6 +243,18 @@
   ],
   "publications": [],
   "skills": [
+    {
+      "name": "GraphQL",
+      "level": "",
+      "value": 70,
+      "keywords": []
+    },
+    {
+      "name": "AWS foundation",
+      "level": "",
+      "value": 70,
+      "keywords": []
+    },
     {
       "name": "React",
       "level": "",

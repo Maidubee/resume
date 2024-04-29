@@ -44,9 +44,7 @@
       "position": "Engineering Manager",
       "website": "http://booking.com",
       "startDate": "2022",
-      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy, with an interdisciplinary group of experts for the next 3-5 years, aiming to extend our messaging platform across multiple business units to deliver large-scale technical solutions. Concurrently, I am in charge of leading efforts to modernise legacy services within my team and the department to bolster system reliability and to create a culture that encourages teams to continuously improve.
-      Besides that, I ensure that my team as well as the broader department is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the new 'Request to Book' feature across several teams, aligning our offerings with industry benchmarks and to meet the needs of the customers. Moreover, my team is among the first four teams to successfully implement a generative AI use case in production, positioning my team as innovators. Alongside my technical responsibilities, I am in charge of mentoring two other Engineering Managers, focusing on enhancing skills in feedback delivery and managing challenging conversations. As a stretch goal, I am participating in a company-wide technical initiative called Shift Left to help achieve company-level objectives. This initiative reports up to the VP level Part of the initiative is to gradually roll out new controls within 2024 and establish new processes amidst high ambiguity.
-      ",
+      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy, with an interdisciplinary group of experts for the next 3-5 years, aiming to extend our messaging platform across multiple business units to deliver large-scale technical solutions. Concurrently, I am in charge of leading efforts to modernise legacy services within my team and the department to bolster system reliability and to create a culture that encourages teams to continuously improve. Besides that, I ensure that my team as well as the broader department is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the new 'Request to Book' feature across several teams, aligning our offerings with industry benchmarks and to meet the needs of the customers. Moreover, my team is among the first four teams to successfully implement a generative AI use case in production, positioning my team as innovators. Alongside my technical responsibilities, I am in charge of mentoring two other Engineering Managers, focusing on enhancing skills in feedback delivery and managing challenging conversations. As a stretch goal, I am participating in a company-wide technical initiative called Shift Left to help achieve company-level objectives. This initiative reports up to the VP level Part of the initiative is to gradually roll out new controls within 2024 and establish new processes amidst high ambiguity.",
       "location": "Amsterdam, NL"
     },
     {
@@ -104,7 +102,7 @@
       "position": "Young Professional IT",
       "website": "http://ing.de",
       "organization": "Siemens Germany",
-      "summary": "Developed a Configuration Management Database (CMDB) using SQL for my Master's thesis, focusing on improving data management and accessibility. Participated in Siemens' Women in STEM talent program, aimed at fostering diversity and enhancing professional development in the technology sector. Contributed to the Cloud Technology Expert Group, working on critical technology initiatives. Additionally, I was involved in the company's inaugural trial of agile methodologies, where I researched and disseminated best practices and processes to facilitate the adoption of agile workflows.",
+      "summary": "Developed a Configuration Management Database (CMDB) using SQL for my Master's thesis, focusing on improving data management and accessibility. Participated in Siemens' Women in STEM talent program, aimed at fostering diversity and enhancing professional development in the technology sector. Contributed to the Cloud Technology Expert Group, working on critical technology initiatives (company-wide Active Directory roll-out). Additionally, I was involved in the company's inaugural trial of agile methodologies, where I researched and disseminated best practices and processes to facilitate the adoption of agile workflows.",
       "startDate": "2012",
       "endDate": "2016",
       "location": "Nuremberg, Germany"
@@ -114,7 +112,7 @@
       "position": "Au Pair",
       "website": "",
       "company": "Ireland",
-      "summary": "First working experience abroad as an au-paur in Ireland. I was responsible for three children, ranging from ages 4 to 11.",
+      "summary": "First working experience abroad, as an au-paur in Ireland. I was responsible for three children, ranging from ages 4 to 11.",
       "startDate": "2011",
       "endDate": "2011",
       "location": "Dublin, Ireland"

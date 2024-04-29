@@ -132,7 +132,7 @@
   "education": [
     {
       "institution": "University of Bamberg",
-      "area": "Economic Computer Science",
+      "area": "Information/Computer Science",
       "studyType": "MSc.",
       "startDate": "2014",
       "endDate": "2017",
@@ -151,20 +151,20 @@
   ],
   "trainings": [
     {
-      "name": "Management People Program and B.Champion ",
+      "name": "Management People Program (MPP) and B.Champion Program ",
       "organization": "Booking",
-      "summary": "Both are internal B programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, and stakeholder management. The B.Champion program, also an internal initiative, specifically targets women in IT to assist with career progression."
+      "summary": "Both are internal Booking.com programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, and stakeholder management. The B.Champion program, also an internal initiative, specifically targets women in IT to assist with career progression."
     },
 
     {
       "name": "AWS foundation ",
-      "organization": "Booking",
+      "organization": "Coursera",
       "summary": "Architectural foundations of AWS"
     },
 
     {
       "name": "GraphQL Developer Associate ",
-      "organization": "Booking",
+      "organization": "Apollo Graph Developer",
       "summary": "Completed to build solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server, and perform queries with Apollo Client on the frontend."
     },
 

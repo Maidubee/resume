@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bianca Brückner",
-    "label": "IT Lead",
+    "label": "Engineering Manager",
     "picture": "https://media.licdn.com/dms/image/C5603AQF-WuWUKdiU-A/profile-displayphoto-shrink_800_800/0/1520430346795?e=1719446400&v=beta&t=LJnF1eOIT413m4_w6Y5M_nf0FHE9UIMl6KhwCiXLDxg",
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
-    "summary": "IT Lead, passionate about web development, organizational/team health and people & behavioral science.",
+    "summary": "Experienced Engineering Manager, passionate about web development, organizational/team health and people & behavioral science.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -44,7 +44,7 @@
       "position": "Engineering Manager",
       "website": "http://booking.com",
       "startDate": "2022",
-      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy, with an interdisciplinary group of experts for the next 3-5 years, aiming to extend our messaging platform across multiple business units to deliver large-scale technical solutions. Concurrently, I am in charge of leading efforts to modernise legacy services within my team and the department to bolster system reliability and to create a culture that encourages teams to continuously improve. Besides that, I ensure that my team as well as the broader department is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the new 'Request to Book' feature across several teams, aligning our offerings with industry benchmarks and to meet the needs of the customers. Moreover, my team is among the first four teams to successfully implement a generative AI use case in production, positioning my team as innovators. Alongside my technical responsibilities, I am in charge of mentoring two other Engineering Managers, focusing on enhancing skills in feedback delivery and managing challenging conversations. As a stretch goal, I am participating in a company-wide technical initiative called Shift Left to help achieve company-level objectives. This initiative reports up to the VP level Part of the initiative is to gradually roll out new controls within 2024 and establish new processes amidst high ambiguity.",
+      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy, with an interdisciplinary group of experts for the next 3-5 years, aiming to extend our messaging platform across multiple business units to deliver large-scale technical solutions. Concurrently, I am in charge of leading efforts to modernise legacy services within my team and the department to bolster system reliability and to create a culture that encourages teams to continuously improve. Besides that, I ensure that my team as well as the broader department is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the new 'Request to Book' feature across several teams, aligning our offerings with industry benchmarks and to meet the needs of the customers. Moreover, my team is among the first teams to successfully implement a generative AI use case in production. Alongside my technical responsibilities, I am in charge of mentoring two other Engineering Managers, focusing on enhancing skills in feedback delivery and managing challenging conversations. As a stretch goal, I am participating in a company-wide technical initiative called Shift Left to help achieve company-level objectives. This initiative reports up to the VP level. Part of the initiative is to gradually roll out new Risk controls within 2024 and establish new processes amidst high ambiguity.",
       "location": "Amsterdam, NL"
     },
     {
@@ -54,7 +54,7 @@
       "website": "http://ing.nl",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "In my previous role as Engineering Manager  (IT Chapter Lead), I directed a diverse team of 15-19 engineers based in the Netherlands and India. This team included internal, onshore, and offshore professionals, requiring effective cross-cultural leadership. I was responsible for their professional development, helping each engineer to realise their full potential despite the challenges of a geographically and functionally dispersed team structure. I initiated the development of a 'Testing as a Service' team from the ground up, addressing a critical gap by providing essential end-to-end testing services and elevating testing practices across all teams within the track. This initiative significantly reduced technical debt by prioritising quality and operational excellence. The technical environment I managed included Java APIs, legacy systems, Pega, and an array of DevOps tools, encompassing both internal cloud solutions and Azure DevOps. My strategic leadership extended to organising and facilitating activities involving over 120 participants, ensuring alignment and awareness of progress across different teams. Additionally, I collaborated closely with a designated risk manager for approximately nine months to address 800 findings from a comprehensive risk assessment. This effort included implementing regular risk meetings, designating risk champions within each team, and disseminating weekly risk updates through a newsletter. I also developed a custom dashboard to monitor all controls, which became a critical resource shared across multiple tracks, enhancing our overall risk management framework.",
+      "summary": "I directed a diverse team of 15-19 engineers including internal, onshore, and offshore professionals, requiring effective cross-cultural leadership. I initiated the creation of a 'Testing as a Service' team, addressing a critical gap by providing essential end-to-end testing services and elevating testing practices across all teams within the IT Area. This initiative significantly reduced technical debt by prioritising quality and operational excellence. I managed Java APIs, legacy systems, Pega, and an array of DevOps tools, encompassing both internal cloud solutions and Azure DevOps. My strategic leadership extended to organising and facilitating events involving over 120 participants, ensuring alignment and awareness of progress across different teams. Additionally, I collaborated closely with the Risk department to address 800 findings in the IT Area. This effort included implementing regular risk meetings, designating risk champions within each team, and disseminating weekly risk updates through a bulletin. I also developed a custom dashboard to monitor all controls, which became a critical resource shared across multiple tracks.",
       "location": "Amsterdam, NL"
     },
     {
@@ -74,7 +74,7 @@
       "website": "http://ing.com",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "As a leader on an innovative software project, I spearheaded the development of a cutting-edge internal analytical platform, designed to visualise and analyse our API and interface landscape along with their communication flows. Following a successful prototype demonstration, I established and led a multidisciplinary engineering team to develop and deploy the first Minimum Viable Product (MVP) into production. In my role as Product Owner, I excelled in stakeholder management, effectively communicating the project's vision and establishing robust feedback loops with the community to enhance product features and user experience. My architectural responsibilities entailed designing the foundational structures of the software system, strategically integrating it within the broader enterprise ecosystem. Additionally, I contributed hands-on as a full-stack DevOps engineer, ensuring the seamless operation and scalability of the platform. Highlighting my expertise, I presented on graph databases and our MVP at the ING Tech Conference in Romania in 2019, demonstrating the project's success and impact",
+      "summary": "As a leader on an innovative software project, I spearheaded the development of an internal analytical platform, designed to visualise and analyse the API and interface landscape along with their communication flows. Following a successful prototype, I established and led a multidisciplinary engineering team to develop and deploy the first Minimum Viable Product (MVP) into production. In my role as Product Owner, I excelled in stakeholder management, effectively communicating the project's vision and establishing robust feedback loops with the community. My architectural responsibilities entailed designing the foundational structures of the software system, strategically integrating it within the broader enterprise ecosystem. Additionally, I contributed hands-on as a full-stack DevOps engineer, ensuring the seamless operation and scalability of the platform. Highlighting my expertise, I presented on graph databases and our MVP at the ING Annual Tech Conference, demonstrating the project's success and impact.",
       "location": "Amsterdam, NL"
     },
     {
@@ -82,7 +82,7 @@
       "company": "ING Spain",
       "position": "Platform Architect in a global program",
       "website": "http://ing.es",
-      "summary": "In my short-term assignment, I contributed to the development and maintenance of a reactive microservice platform designed for full-stack architecture. This platform was strategically developed to be deployed across five target countries as a part of a company-wide program. To ensure a successful rollout, I created a resource platform featuring self-produced technical tutorials on the latest technological trends and coding education. Additionally, I authored a comprehensive playbook for the five countries, guiding them in replicating and launching the same multi-tenant microservices architecture in diverse locations.",
+      "summary": "I contributed to the development and maintenance of a reactive microservice platform designed for full-stack architecture. This platform was strategically developed to be deployed across five countries as a part of a company-wide program. To ensure a successful rollout, I created a resource platform featuring self-produced technical tutorials on the latest technological trends and coding education. Additionally, I authored a comprehensive playbook for the five countries, guiding them in replicating and launching the same multi-tenant microservices architecture in diverse locations.",
       "startDate": "2018",
       "endDate": "2018",
       "location": "Madrid, Spain"
@@ -90,9 +90,9 @@
     {
       "name": "ING-DiBa",
       "company": "ING Germany",
-      "position": "ITP IT Trainee (Software engineering track)",
+      "position": "ING International Talent Programme (IT)",
       "website": "http://ing.de",
-      "summary": "Participated in the ING International Talent Programme, completing three rotations to enhance my proficiency across the full IT stack. Initially, I worked in IT Service Management, focusing on Incident and ITIL processes designed for implementation across multiple teams. My second rotation involved Virtualization & Cloud Services, where I honed skills in VM management, CPU stress testing, and gained valuable RHEL experience. In my final rotation as a DevOps Engineer at Continuous Delivery as a Service, I specialized in Jenkinsfiles, microservices, Docker, Groovy, and Java. I also presented on Jenkins and Jenkinsfiles at the annual ING Tech Conference in Frankfurt, showcasing our advances in continuous delivery practices.",
+      "summary": "Part of the ING International Talent Programme. I worked in IT Service Management, focusing on Incident and ITIL processes designed for implementation across multiple teams. After that, I worked at Virtualization & Cloud Services, where I honed skills in VM management, CPU stress testing, and gained valuable RHEL experience. Lastly, as a DevOps Engineer at Continuous Delivery as a Service, I focused on Jenkinsfiles, microservices, Docker, Groovy, and Java. I also presented on Jenkins and Jenkinsfiles at the annual ING Tech Conference, showcasing our advances in continuous delivery practices.",
       "startDate": "2016",
       "endDate": "2017",
       "location": "Frankfurt am Main & Nuremberg, Germany"
@@ -151,9 +151,9 @@
   ],
   "trainings": [
     {
-      "name": "Management People Program (MPP) and B.Champion Program ",
+      "name": "Managing People Program (MPP) and B.Champion Program ",
       "organization": "Booking",
-      "summary": "Both are internal Booking.com programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, and stakeholder management. The B.Champion program, also an internal initiative, specifically targets women in IT to assist with career progression."
+      "summary": "Both are internal Booking.com programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, influencing organizations and stakeholder management. The B.Champion program, specifically targets women in IT to assist with career progression."
     },
 
     {
@@ -215,9 +215,9 @@
       "summary": "3-day training organized by ING, after which I completed the ITIL certification"
     },
     {
-      "name": "IT Trainee Program ING",
+      "name": "ING International Talent Programme",
       "organization": "ING",
-      "summary": "The trainee program provided 3 global learning events with different sessions and trainings about personal growth and leadership skills, as well as the opportunity to work abroad.",
+      "summary": "The international talent programme provided 3 global learning events with different sessions and trainings about personal growth and leadership skills, as well as the opportunity to work abroad.",
       "highlights": [""]
     }
   ],

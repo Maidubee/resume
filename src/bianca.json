@@ -64,7 +64,7 @@
       "website": "https://www.stippl.io",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "Parttime developer for stippl.io, travel app ",
+      "summary": "Parttime developer for stippl.io, travel app (stack: Node.js, React, MongoDB, GraphQL)",
       "location": "Amsterdam, NL"
     },
     {
@@ -151,6 +151,11 @@
   ],
   "trainings": [
     {
+      "name": "Architecting on AWS ",
+      "organization": "AWS",
+      "summary": "Official AWS-led Architecting on AWS training."
+    },
+    {
       "name": "Managing People Program (MPP) and B.Champion Program ",
       "organization": "Booking.com",
       "summary": "Both are internal Booking.com programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, influencing organizations and stakeholder management. The B.Champion program, specifically targets women in IT to assist with career progression."
@@ -227,9 +232,15 @@
       "keywords": []
     },
     {
-      "name": "SRE e.g.Azure",
+      "name": "NoSQL (e.g. MongoDB)",
       "level": "",
       "value": 80,
+      "keywords": []
+    },
+    {
+      "name": "SRE (e.g. Azure, AWS)",
+      "level": "",
+      "value": 50,
       "keywords": []
     },
     {

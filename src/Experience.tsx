@@ -8,7 +8,9 @@ const Experience = ({ items, header }) =>
       <h2 style={{ marginBottom: "0.5em" }}>{header}</h2>
       {items.map((item, k) => (
         <article key={k} style={{ position: "relative" }}>
-          {items.length === 1 ? null : <Timeline isLast={k === items.length - 1} />}
+          {items.length === 1 ? null : (
+            <Timeline isLast={k === items.length - 1} />
+          )}
           <h3 style={{ marginBottom: 0 }}>
             {item.position || item.title}{" "}
             <span className="employer">at {item.name || item.awarder}</span>
@@ -30,7 +32,7 @@ const Experience = ({ items, header }) =>
             )}
             <Period startDate={item.startDate} endDate={item.endDate} />
           </h5>
-          <p>{item.summary}</p>
+          <p dangerouslySetInnerHTML={{ __html: item?.summary }} />
         </article>
       ))}
     </section>

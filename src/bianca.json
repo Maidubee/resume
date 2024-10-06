@@ -2,7 +2,7 @@
   "basics": {
     "name": "Bianca Brückner",
     "label": "Engineering Manager",
-    "picture": "https://media.licdn.com/dms/image/C5603AQF-WuWUKdiU-A/profile-displayphoto-shrink_800_800/0/1520430346795?e=1719446400&v=beta&t=LJnF1eOIT413m4_w6Y5M_nf0FHE9UIMl6KhwCiXLDxg",
+    "picture": "https://media.licdn.com/dms/image/v2/C5603AQF-WuWUKdiU-A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1520430346795?e=1733961600&v=beta&t=tTENBCV4OqGv2u6WynXPJwOIqcAgn0PiH5kD1g-TM_g",
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
@@ -44,7 +44,7 @@
       "position": "Engineering Manager",
       "website": "http://booking.com",
       "startDate": "2022",
-      "summary": "I currently lead a team of seven engineers, focusing on areas critical for our high-availability and high-scalability services, essential during peak times. I am part of developing a comprehensive tech strategy, with an interdisciplinary group of experts for the next 3-5 years, aiming to extend our messaging platform across multiple business units to deliver large-scale technical solutions. Concurrently, I am in charge of leading efforts to modernise legacy services within my team and the department to bolster system reliability and to create a culture that encourages teams to continuously improve. Besides that, I ensure that my team as well as the broader department is pioneering improvements in industry standards by adhering to best practices in software engineering and utilising advanced technologies like GraphQL and AWS. Additionally, I am in charge of overseeing the implementation of the new 'Request to Book' feature across several teams, aligning our offerings with industry benchmarks and to meet the needs of the customers. Moreover, my team is among the first teams to successfully implement a generative AI use case in production. Alongside my technical responsibilities, I am in charge of mentoring two other Engineering Managers, focusing on enhancing skills in feedback delivery and managing challenging conversations. As a stretch goal, I am participating in a company-wide technical initiative called Shift Left to help achieve company-level objectives. This initiative reports up to the VP level. Part of the initiative is to gradually roll out new Risk controls within 2024 and establish new processes amidst high ambiguity.",
+      "summary": "<ul><li>Lead and manage a team of 8+ engineers to ensure high-availability and scalability of critical services. (~120 million messages per month)</li> <li>Develop and implement tech strategy for the next 3-5 years in collaboration with interdisciplinary experts, focusing on expanding the messaging platform.</li> <li>Prioritise modernising legacy services to improve system reliability and promote a culture of continuous improvement.</li> <li>Embrace best practices in software engineering, utilising advanced technologies like GraphQL and AWS to pioneer industry standards.</li> <li>Oversee the implementation of the 'Request to Book' feature across teams, aligning with industry benchmarks and customer needs.</li> <li>Successfully lead the first production implementation of a generative AI use case within the company.</li> <li>Mentor two Engineering Managers, focusing on feedback delivery and managing complex conversations.</li> <li>Collaborate on a company-wide technical initiative, Shift Left, to develop strategy and meet company objectives, initiatives reports to VP level.</li> <li>Negotiate and adapt to establish new Risk controls and processes amidst ambiguity, targeting rollout within 2024.</li> <li>Engage with stakeholders effectively, presenting technical strategies and improvements to enhance business alignment.</li> <li>Delegate tasks efficiently to maintain high team morale and foster development within the department.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -54,7 +54,7 @@
       "website": "http://ing.nl",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "I directed a diverse team of 15-19 engineers including internal, onshore, and offshore professionals, requiring effective cross-cultural leadership. I initiated the creation of a 'Testing as a Service' team, addressing a critical gap by providing essential end-to-end testing services and elevating testing practices across all teams within the IT Area. This initiative significantly reduced technical debt by prioritising quality and operational excellence. I managed Java APIs, legacy systems, Pega, and an array of DevOps tools, encompassing both internal cloud solutions and Azure DevOps. My strategic leadership extended to organising and facilitating events involving over 120 participants, ensuring alignment and awareness of progress across different teams. Additionally, I collaborated closely with the Risk department to address 800 findings in the IT Area. This effort included implementing regular risk meetings, designating risk champions within each team, and disseminating weekly risk updates through a bulletin. I also developed a custom dashboard to monitor all controls, which became a critical resource shared across multiple tracks.",
+      "summary": "<ul><li>Directed a diverse team of 15-19 engineers across 4 squads (internal, onshore, offshore), demonstrating cross-cultural leadership.</li> <li>Initiated and developed a 'Testing as a Service' team, addressing gaps in end-to-end testing and enhancing quality practices across the IT Area.</li> <li>Managed diverse tech stack, including Java APIs, legacy systems, Pega, and various DevOps tools (internal cloud and Azure DevOps).</li> <li>Led and organised strategic events with over 120 participants to ensure team alignment and progress awareness across two countries.</li> <li>Collaborated with the Risk department to resolve 800 findings, establishing risk management processes and appointing risk champions.</li> <li>Developed and implemented a custom dashboard for monitoring controls, widely adopted across multiple tracks.</li> <li>Facilitated stakeholder engagement through regular risk meetings and weekly bulletins to maintain transparency and compliance.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -64,7 +64,7 @@
       "website": "https://www.stippl.io",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "Parttime developer for stippl.io, travel app ",
+      "summary": "<ul><li>Part-time developer for Stippl.io, a travel app.</li> <li>Worked with a tech stack including Node.js, React, MongoDB, and GraphQL.</li> <li>Contributed to the development and enhancement of the platform. </li> <li>Collaborated with the team to build and optimize features for user experience.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -74,7 +74,7 @@
       "website": "http://ing.com",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "As a leader on an innovative software project, I spearheaded the development of an internal analytical platform, designed to visualise and analyse the API and interface landscape along with their communication flows. Following a successful prototype, I established and led a multidisciplinary engineering team to develop and deploy the first Minimum Viable Product (MVP) into production. In my role as Product Owner, I excelled in stakeholder management, effectively communicating the project's vision and establishing robust feedback loops with the community. My architectural responsibilities entailed designing the foundational structures of the software system, strategically integrating it within the broader enterprise ecosystem. Additionally, I contributed hands-on as a full-stack DevOps engineer, ensuring the seamless operation and scalability of the platform. Highlighting my expertise, I presented on graph databases and our MVP at the ING Annual Tech Conference, demonstrating the project's success and impact.",
+      "summary": "<ul><li>Spearheaded development of an internal analytical platform to visualize and analyse API and interface communication flows.</li> <li>Led a multidisciplinary team to develop and deploy the MVP into production.</li> <li>Designed the architectural framework for the software, ensuring integration within the broader enterprise ecosystem.</li> <li>Contributed as a full-stack DevOps engineer, ensuring operational efficiency and platform scalability.</li> <li>Presented on graph databases and the MVP at the ING Annual Tech Conference (Bucharest), showcasing the project's success and impact.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -82,7 +82,7 @@
       "company": "ING Spain",
       "position": "Platform Architect in a global program",
       "website": "http://ing.es",
-      "summary": "I contributed to the development and maintenance of a reactive microservice platform designed for full-stack architecture. This platform was strategically developed to be deployed across five countries as a part of a company-wide program. To ensure a successful rollout, I created a resource platform featuring self-produced technical tutorials on the latest technological trends and coding education. Additionally, I authored a comprehensive playbook for the five countries, guiding them in replicating and launching the same multi-tenant microservices architecture in diverse locations.",
+      "summary": "<ul><li>Contributed to developing, architecting and maintaining a reactive microservice platform for full-stack architecture, deployed across five countries.</li> <li>Created a resource platform with self-produced tutorials on technological trends and coding education to support successful rollout.</li> <li>Authored a comprehensive playbook to guide replication and deployment of the multi-tenant microservices architecture across diverse locations.</li> <li>Supported company-wide program objectives by enabling consistent implementation of the platform in multiple countries.</li></ul>",
       "startDate": "2018",
       "endDate": "2018",
       "location": "Madrid, Spain"
@@ -92,7 +92,7 @@
       "company": "ING Germany",
       "position": "ING International Talent Programme (IT)",
       "website": "http://ing.de",
-      "summary": "Part of the ING International Talent Programme. I worked in IT Service Management, focusing on Incident and ITIL processes designed for implementation across multiple teams. After that, I worked at Virtualization & Cloud Services, where I honed skills in VM management, CPU stress testing, and gained valuable RHEL experience. Lastly, as a DevOps Engineer at Continuous Delivery as a Service, I focused on Jenkinsfiles, microservices, Docker, Groovy, and Java. I also presented on Jenkins and Jenkinsfiles at the annual ING Tech Conference, showcasing our advances in continuous delivery practices.",
+      "summary": "<ul><li>Participated in the ING International Talent Programme, gaining experience across multiple IT domains.</li> <li>Worked in IT Service Management, focusing on Incident and ITIL process implementation across the company.</li> <li>Developed skills in VM management, CPU stress testing, and RHEL while working with Virtualisation & Cloud Services.</li> <li>Served as a DevOps Engineer for Continuous Delivery as a Service, specialising in Jenkinsfiles, microservices, Docker, Groovy, and Java.</li> <li>Presented on Jenkins and Jenkinsfiles at the ING Tech Conference (Frankfurt), highlighting advancements in continuous delivery practices.</li></ul>",
       "startDate": "2016",
       "endDate": "2017",
       "location": "Frankfurt am Main & Nuremberg, Germany"
@@ -102,7 +102,7 @@
       "position": "Young Professional IT",
       "website": "http://ing.de",
       "organization": "Siemens Germany",
-      "summary": "Developed a Configuration Management Database (CMDB) using SQL for my Master's thesis, focusing on improving data management and accessibility. Participated in Siemens' Women in STEM talent program, aimed at fostering diversity and enhancing professional development in the technology sector. Contributed to the Cloud Technology Expert Group, working on critical technology initiatives (company-wide Active Directory roll-out). Additionally, I was involved in the company's inaugural trial of agile methodologies, where I researched and disseminated best practices and processes to facilitate the adoption of agile workflows.",
+      "summary": "<ul><li>Developed a Configuration Management Database (CMDB) using SQL for Master’s thesis, enhancing data management and accessibility.</li> <li>Participated in Siemens' Women in STEM talent program to foster diversity and professional growth in technology.</li> <li>Contributed to the Cloud Technology Expert Group, supporting and coordinating key initiatives such as the company-wide Active Directory rollout.</li> <li>Engaged in the company’s first trial of agile methodologies, researching and promoting best practices to support agile workflow adoption.</li></ul>",
       "startDate": "2012",
       "endDate": "2016",
       "location": "Nuremberg, Germany"
@@ -197,9 +197,9 @@
       "keywords": []
     },
     {
-      "name": "AWS foundation",
+      "name": "AWS",
       "level": "",
-      "value": 70,
+      "value": 80,
       "keywords": []
     },
     {
@@ -227,7 +227,7 @@
       "keywords": []
     },
     {
-      "name": "SRE e.g.Azure",
+      "name": "Azure",
       "level": "",
       "value": 80,
       "keywords": []

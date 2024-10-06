@@ -21,6 +21,25 @@
   .subline {
     color: gray;
   }
+  ul {
+    list-style: none; // Remove default bullet points
+    padding: 0;
+    margin: 0;
+
+    li {
+      position: relative;
+      padding-left: 1.5rem; // Space before custom bullet
+      margin-bottom: 0.75rem; // Spacing between bullets
+
+      &:before {
+        content: "\2022"; // Unicode bullet symbol
+        position: absolute;
+        left: 0;
+        font-size: 1.2rem;
+        color: green; // Change this color to match your theme
+      }
+    }
+  }
 }
 
 .period {

@@ -58,16 +58,6 @@
       "location": "Amsterdam, NL"
     },
     {
-      "name": "Stippl",
-      "company": "Stippl.io",
-      "position": "Web/Mobile developer",
-      "website": "https://www.stippl.io",
-      "startDate": "2020",
-      "endDate": "2022",
-      "summary": "<ul><li>Part-time developer for Stippl.io, a travel app.</li> <li>Worked with a tech stack including Node.js, React, MongoDB, and GraphQL.</li> <li>Contributed to the development and enhancement of the platform. </li> <li>Collaborated with the team to build and optimize features for user experience.</li></ul>",
-      "location": "Amsterdam, NL"
-    },
-    {
       "name": "ING Tech",
       "company": "ING Netherlands",
       "position": "Information Architect & Product Owner",

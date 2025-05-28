@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaRegEnvelope, FaGlobe } from "react-icons/fa";
+import { FaAward, FaGithub, FaGlobe, FaLinkedin, FaRegEnvelope } from "react-icons/fa";
 
 const Icon = ({ url }) => {
   const size = 20;
@@ -13,7 +13,7 @@ const Icon = ({ url }) => {
   } else if (u.indexOf("vanrijn.dev") >= 0) {
     return <FaGlobe size={size} color="black" style={style} />;
   }
-  return null;
+  return <FaAward size={size} color="black" style={style} />;
 };
 
 export default Icon;

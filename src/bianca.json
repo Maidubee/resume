@@ -34,6 +34,11 @@
         "network": "website",
         "username": "https://bianca.vanrijn.dev",
         "url": "https://bianca.vanrijn.dev"
+      },
+      {
+        "network": "awards",
+        "username": "https://womensvisibilityawards.com/winners/",
+        "url": "https://womensvisibilityawards.com/winners/"
       }
     ]
   },

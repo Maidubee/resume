@@ -1,8 +1,8 @@
 import Education from "./Education";
 import Experience from "./Experience";
-import Tag from "./Tag";
-import Icon from "./Icon";
 import { isEmpty } from "./functions";
+import Icon from "./Icon";
+import Tag from "./Tag";
 import Trainings from "./Trainings";
 
 const Resume = ({ resume, style }) => {
@@ -40,7 +40,10 @@ const Resume = ({ resume, style }) => {
           </section>
           <section>
             <h3 style={{ marginBottom: "0.5rem" }}>Summary</h3>
-            <p style={{ textAlign: "left" }}>{resume.basics.summary}</p>
+            <p
+              dangerouslySetInnerHTML={{ __html: resume.basics.summary }}
+              style={{ textAlign: "left" }}
+            />
           </section>
 
           {isEmpty(resume.skills) ? null : (

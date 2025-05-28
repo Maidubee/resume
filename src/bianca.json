@@ -6,7 +6,7 @@
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
-    "summary": "Experienced Engineering Manager, passionate about web development, organizational/team health and people & behavioral science.",
+    "summary": "<i><b>Seasoned technical leader </b> with extensive experience in high-scale, modern software engineering and legacy system transformation. Proven track record in <b>senior architecture</b> and <b>cloud migration</b> leadership across Azure and AWS. Strong cross-platform expertise spanning SaaS, ERP, and low-code platforms, with deep knowledge of both <b>greenfield and brownfield environments</b>.</i>",
     "location": {
       "address": "",
       "postalCode": "",
@@ -44,7 +44,7 @@
       "position": "Engineering Manager",
       "website": "http://booking.com",
       "startDate": "2022",
-      "summary": "<ul><li>Lead and manage a team of 10+ engineers to ensure high-availability and scalability of critical services. (~120 million messages per month)</li> <li>Develop and implement tech strategy for the next 3-5 years in collaboration with interdisciplinary experts, focusing on expanding the messaging platform.</li> <li>WDevelop and implement technology strategies and technical roadmaps for the next 3-5 years, collaborating with interdisciplinary experts and top executives to align solutions with business strategic needs and enhance client capabilities.</li> <li>Through cloud adoption, prioritise modernising legacy services to improve system reliability and promote a culture of continuous improvement.</li> <li>Embrace best practices in software engineering, utilising advanced technologies like GraphQL and AWS to pioneer industry standards, and serverless and event-driven architecture.</li> <li>Oversee the implementation of the 'Request to Book' feature across teams, aligning with industry benchmarks, strategic and customer needs.</li> <li>Successfully led and designed the first production implementation of a generative AI use case within the company, enhancing client capabilities and pioneering new technologies.</li> <li>Coach and mentor two Engineering Managers, focusing on feedback delivery and managing complex conversations.</li> <li>Contribute - as EM representative for the Business Unit - on a company-wide technical initiative, Shift Left, to develop strategy and meet company objectives, collaborating with stakeholder groups. (Initiative reporting to VP level)</li> <li>Negotiate and adapt to establish new Risk controls and processes amidst ambiguity, supporting process improvement and targeting rollout within 2024.</li> <li>Engage with stakeholders effectively, presenting technical strategies and improvements to enhance business alignment, ensuring requirements and proposed solutions are fully understood and appropriately exploited.</li> <li>Lead, plan, and supervise team activities, delegating tasks efficiently to maintain high team morale and foster development within the department.</li></ul>",
+      "summary": "<ul><li>Lead and manage a team of 10+ engineers to ensure high-availability and scalability of critical services. (~120 million messages per month)</li><li>Continuously consulting with external partners (e.g., hotels) to validate stakeholder demand and integrate early feedback into the product lifecycle.</li> <li>Develop and implement tech strategy for the next 3-5 years in collaboration with interdisciplinary experts, focusing on expanding the messaging platform.</li> <li>Develop and implement technology strategies and technical roadmaps for the next 3-5 years, collaborating with interdisciplinary experts and top executives to align solutions with business strategic needs and enhance client capabilities.</li> <li>Through cloud adoption, prioritise modernising legacy services to improve system reliability and promote a culture of continuous improvement.</li> <li>Embrace best practices in software engineering, utilising advanced technologies like GraphQL, ML models and AWS (serverless and event-driven architecture) to pioneer industry standards.</li> <li>Oversee the implementation of the 'Request to Book' feature across teams, aligning with industry benchmarks, strategic and customer needs.</li> <li>Successfully led and designed the first production implementation of multiple generative AI use cases within the company, enhancing client capabilities and pioneering new technologies.</li> <li>Coach and mentor two Engineering Managers, focusing on feedback delivery and managing complex conversations.</li> <li>Contribute - as EM representative for the Business Unit - on a company-wide technical initiative, Shift Left, to develop strategy and meet company objectives, collaborating with stakeholder groups. Initiative reporting to VP level: clear and impactful communicator with the ability to engage and influence executive-level stakeholders.</li> <li>Negotiate and adapt to establish new Risk controls and processes amidst ambiguity, supporting process improvement and targeting rollout within 2024.</li> <li>Engage with stakeholders effectively, presenting technical strategies and improvements to enhance business alignment, ensuring requirements and proposed solutions are fully understood and appropriately exploited.</li> <li>Lead, plan, and supervise team activities, delegating tasks efficiently to maintain high team morale and foster development within the department.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -102,7 +102,7 @@
       "position": "Young Professional IT",
       "website": "http://ing.de",
       "organization": "Siemens Germany",
-      "summary": "<ul><li>Developed a Configuration Management Database (CMDB) using SQL for Master’s thesis, enhancing data management and accessibility.</li> <li>Worked for the Siemens datacenter containing exclusively military data.</li> <li>Participated in Siemens' Women in STEM talent program to foster diversity and professional growth in technology.</li> <li>Contributed to the Cloud Technology Expert Group, supporting and coordinating key initiatives such as the company-wide Active Directory rollout.</li> <li>Engaged in the company’s first trial of agile methodologies, researching and promoting best practices to support agile workflow adoption.</li></ul>",
+      "summary": "<ul><li>Developed a Configuration Management Database (CMDB) using SQL for Master’s thesis, enhancing data management and accessibility.</li> <li>Worked for the Siemens datacenter containing exclusively military data.</li> <li>Participated in Siemens' Women in STEM talent program to foster diversity and professional growth in technology.</li> <li>Contributed to the Cloud Technology Expert Group, supporting and coordinating key initiatives such as the company-wide Active Directory rollout.</li> <li>Engaged in the company’s first trial of agile methodologies, researching and promoting best practices to support agile workflow adoption.</li><li>Developed automated SAP BI reporting pipeline and internal dashboard UI for the Infrastructure & Cities business unit.</li></ul>",
       "startDate": "2012",
       "endDate": "2016",
       "location": "Nuremberg, Germany"
@@ -177,6 +177,13 @@
   ],
 
   "awards": [
+    {
+      "title": "The one who wrote the future in Tech",
+      "startDate": "2025",
+      "endDate": "2025",
+      "awarder": "Womens Visibility Award",
+      "organization": "https://womensvisibilityawards.com/winners/"
+    },
     {
       "title": "Cum Laude Master degree",
       "startDate": "2016",
@@ -271,17 +278,13 @@
   ],
   "interests": [
     {
-      "name": "Yoga",
+      "name": "Sports",
       "gifUrl": "https://media.giphy.com/media/3ohzdEpNrIGhl84Gqc/giphy-downsized.gif"
     },
 
     {
-      "name": "Dancing",
+      "name": "Salsa dancing",
       "gifUrl": "https://media.giphy.com/media/SxLLHtvNANLdep1dt0/giphy.gif"
-    },
-    {
-      "name": "Cooking",
-      "gifUrl": "https://media.giphy.com/media/MU7DwSE5Ulla8/giphy.gif"
     },
     {
       "name": "Books",

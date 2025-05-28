@@ -1,5 +1,4 @@
 import { isEmpty } from "./functions";
-import Period from "./Period";
 import Timeline from "./Timeline";
 
 const Trainings = ({ trainings }) =>

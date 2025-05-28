@@ -28,7 +28,11 @@ const Experience = ({ items, header }) =>
                 {item.company || item.organization}
               </a>
             ) : (
-              item.company || item.organization
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: item.company || item.organization,
+                }}
+              />
             )}
             <Period startDate={item.startDate} endDate={item.endDate} />
           </h5>

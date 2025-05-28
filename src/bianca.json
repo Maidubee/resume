@@ -178,11 +178,11 @@
 
   "awards": [
     {
-      "title": "The one who wrote the future in Tech",
+      "title": "The One Who Wrote The Future in Tech",
       "startDate": "2025",
       "endDate": "2025",
       "awarder": "Womens Visibility Award",
-      "organization": "https://womensvisibilityawards.com/winners/"
+      "organization": "<a href='https://womensvisibilityawards.com/winners/'>Website: List of winners</a>"
     },
     {
       "title": "Cum Laude Master degree",

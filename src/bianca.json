@@ -62,7 +62,7 @@
       "company": "Stippl.io",
       "position": "Web/Mobile developer",
       "website": "https://www.stippl.io",
-      "startDate": "2020",
+      "startDate": "2019",
       "endDate": "2022",
       "summary": "<ul><li>Part-time developer for Stippl.io, a travel app.</li> <li>Worked with a tech stack including Node.js, React, MongoDB, and GraphQL.</li> <li>Contributed to the development and enhancement of the platform. </li> <li>Collaborated with the team to build and optimize features for user experience.</li></ul>",
       "location": "Amsterdam, NL"
@@ -336,9 +336,7 @@
       "startDate": { "month": 11, "year": 2019 },
       "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
       "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
-      "images": [
-        { "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }
-      ],
+      "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
       "link": "https://lovely-movie.netlify.app/",
       "name": "Lovely Movie",
       "endDate": "2019-12-01"

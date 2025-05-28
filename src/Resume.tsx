@@ -1,9 +1,9 @@
 import Education from "./Education";
 import Experience from "./Experience";
-import { isEmpty } from "./functions";
 import Icon from "./Icon";
 import Tag from "./Tag";
 import Trainings from "./Trainings";
+import { isEmpty } from "./functions";
 
 const Resume = ({ resume, style }) => {
   return (
@@ -18,11 +18,7 @@ const Resume = ({ resume, style }) => {
       <div style={{}} className="resume">
         <aside style={{ width: 300 }} className="aside">
           <section style={{ display: "flex", justifyContent: "center" }}>
-            <img
-              src={resume.basics.picture}
-              style={{ height: 150, borderRadius: "100%" }}
-              alt="me"
-            />
+            <img src="/bianca.jpeg" style={{ width: "7em", borderRadius: 12 }} alt="me" />
           </section>
           <section className="profiles">
             {(resume.basics.profiles || []).map((p, k) => (
@@ -111,9 +107,7 @@ const Resume = ({ resume, style }) => {
         <section className="main">
           <div style={{ marginTop: 40 }}>
             <h1>{resume.basics.name}</h1>
-            <h5 style={{ textTransform: "uppercase", marginTop: -20 }}>
-              {resume.basics.label}
-            </h5>
+            <h5 style={{ textTransform: "uppercase", marginTop: -20 }}>{resume.basics.label}</h5>
           </div>
           <Experience header="Work Experience" items={resume.work || []} />
           <Experience header="Volunteering" items={resume.volunteer || []} />

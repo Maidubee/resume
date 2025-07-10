@@ -209,18 +209,6 @@
   "publications": [],
   "skills": [
     {
-      "name": "GraphQL",
-      "level": "",
-      "value": 70,
-      "keywords": []
-    },
-    {
-      "name": "AWS",
-      "level": "",
-      "value": 80,
-      "keywords": []
-    },
-    {
       "name": "React",
       "level": "",
       "value": 70,
@@ -228,6 +216,18 @@
     },
     {
       "name": "JavaScript",
+      "level": "",
+      "value": 80,
+      "keywords": []
+    },
+    {
+      "name": "GraphQL",
+      "level": "",
+      "value": 70,
+      "keywords": []
+    },
+    {
+      "name": "AWS",
       "level": "",
       "value": 80,
       "keywords": []

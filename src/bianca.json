@@ -49,7 +49,7 @@
       "position": "Engineering Manager",
       "website": "http://booking.com",
       "startDate": "2022",
-      "summary": "<ul><li>Lead and manage a team of 10+ engineers to ensure high-availability and scalability of critical services. (~120 million messages per month)</li><li>Continuously consulting with external partners (e.g., hotels) to validate stakeholder demand and integrate early feedback into the product lifecycle.</li><li>Ensuring compliance with risk management standards by monitoring and adapting processes to align with the requirements of the (EU) Digital Markets Act.</li> <li>Develop and implement tech strategy for the next 3-5 years in collaboration with interdisciplinary experts, focusing on expanding the messaging platform.</li> <li>Develop and implement technology strategies and technical roadmaps for the next 3-5 years, collaborating with interdisciplinary experts and top executives to align solutions with business strategic needs and enhance client capabilities while having the ownership of delivery timelines and cloud budgets (AWS).</li> <li>Through cloud adoption, prioritise API-led modernizations to improve system reliability and promote a culture of continuous improvement.</li> <li>Embrace best practices in software engineering, utilising advanced technologies like GraphQL, ML models and AWS (serverless and event-driven architecture) to pioneer industry standards.</li> <li>Oversee the implementation of the 'Request to Book' feature across teams, aligning with industry benchmarks, strategic and customer needs.</li> <li>Successfully led and designed the first production implementation of multiple generative AI use cases within the company, enhancing client capabilities and pioneering new technologies.</li> <li>Coach and mentor two Engineering Managers, focusing on feedback delivery and managing complex conversations.</li> <li>Contribute - as EM representative for the Business Unit - on a company-wide technical initiative, Shift Left, to develop strategy and meet company objectives, collaborating with stakeholder groups. Initiative reporting to VP level: clear and impactful communicator with the ability to engage and influence executive-level stakeholders.</li> <li>Negotiate and adapt to establish new Risk controls and processes amidst ambiguity, supporting process improvement and targeting rollout within 2024.</li> <li>Engage with stakeholders effectively, presenting technical strategies and improvements to enhance business alignment, ensuring requirements and proposed solutions are fully understood and appropriately exploited.</li> <li>Lead, plan, and supervise team activities, delegating tasks efficiently to maintain high team morale and foster development within the department.</li></ul>",
+      "summary": "<ul><li>Lead and manage a team of 10+ engineers to ensure high-availability and scalability of critical services. (~120 million messages per month)</li><li>Continuously consulting with customers (e.g., hotels) to validate demand and integrate early feedback into the product lifecycle.</li><li>Ensuring compliance with risk management standards by monitoring and adapting processes to align with the requirements of the (EU) Digital Markets Act.</li> <li>Develop and implement technology strategies and technical roadmaps for the next 3-5 years, collaborating with interdisciplinary experts and top executives to align solutions with business strategic needs and enhance client capabilities while having the ownership of delivery timelines and cloud budgets (AWS).</li> <li>Through cloud adoption, prioritise API-led modernizations to improve system reliability and promote a culture of continuous improvement.</li> <li>Embrace best practices in software engineering, utilising advanced technologies like GraphQL, ML models and AWS (serverless and event-driven architecture) to pioneer industry standards.</li> <li>Oversee the implementation of the 'Request to Book' feature across teams, aligning with industry benchmarks, strategic and customer needs.</li> <li>Successfully led and designed the first production implementation of multiple generative AI use cases within the company, enhancing client capabilities and pioneering new technologies.</li> <li>Coach and mentor two Engineering Managers, focusing on feedback delivery and managing complex conversations.</li> <li>Contribute - as EM representative for the Business Unit - on a company-wide technical initiative, Shift Left, to develop strategy and meet company objectives, collaborating with stakeholder groups. Initiative reporting to VP level: clear and impactful communicator with the ability to engage and influence executive-level stakeholders.</li> <li>Negotiate and adapt to establish new Risk controls and processes amidst ambiguity, supporting process improvement and targeted rollout within 2024.</li> <li>Engage with customers & stakeholders effectively, presenting technical strategies and improvements to enhance business alignment, ensuring requirements and proposed solutions are fully understood and appropriately exploited.</li> <li>Lead, plan, and supervise team activities, delegating tasks efficiently to maintain high team morale and foster development within the department.</li><li>Supported organisation of internal Booking Tech Summit, where I led roundtable discussions, and also contributed to presentations at partner (customer) events.</li></ul>",
       "location": "Amsterdam, NL"
     },
 
@@ -70,17 +70,17 @@
       "website": "https://www.stippl.io",
       "startDate": "2019",
       "endDate": "2022",
-      "summary": "<ul><li>Part-time developer for Stippl.io, a travel app.</li> <li>Worked with a tech stack including Node.js, React, MongoDB, and GraphQL.</li> <li>Contributed to the development and enhancement of the platform. </li> <li>Collaborated with the team to build and optimize features for user experience.</li></ul>",
+      "summary": "<ul><li>Part-time developer for Stippl.io, a travel start-up.</li> <li>Architected the first AWS cloud infrastructure for a greenfield project, using a modern tech stack including AWS (SQS, S3, Lambda, SES), Node.js, React, MongoDB, and GraphQL.</li> <li>Contributed to the development and enhancement of the platform. </li> <li>Collaborated with the team to build and optimize features for user experience.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
-      "name": "ING Tech",
+      "name": "Enterprise Architecture & Innovation",
       "company": "ING Netherlands",
       "position": "Information Architect & Product Owner",
       "website": "http://ing.com",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "<ul><li>Spearheaded development of an internal analytical platform to visualize and analyse API and interface communication flows, leading (early) solution architecting. Also followed market trends and implemented the first graph database.</li> <li>Led a multidisciplinary team to develop and deploy the MVP into production, aligning with business needs.</li> <li>Designed the software’s architectural framework aligned with TOGAF principles, ensuring seamless integration within the broader enterprise ecosystem.</li></ul>",
+      "summary": "<ul><li>Spearheaded development of an internal analytical platform (from scratch), to visualize and analyse API and interface communication flows, leading solution architecting. Also followed market trends and implemented the first graph database.</li> <li>Led a multidisciplinary team to develop and deploy the MVP into production, aligning with business needs.</li> <li>Designed the software’s architectural framework aligned with TOGAF principles, ensuring seamless integration within the broader enterprise ecosystem.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -158,7 +158,7 @@
   "trainings": [
     {
       "name": "Architecting on AWS ",
-      "organization": "AWS",
+      "organization": "Booking.com",
       "summary": "Official AWS-led Architecting on AWS training."
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "name": "Other trainings",
-      "summary": "For other trainings (& certifications) on leadership and engineering skills, see my LinkedIn profile. <li>📚 Introduction to Generative AI </li><li>📚 Hiring and Supporting Neurodiversity in the Workplace </li><li>📚 AWS Foundation </li><li>📚 GraphQL Developer Associate </li><li>📚 React </li> <li>📚 Neo4j </li><li>📚 MERN Stack Front to Back </li><li>📚 Functional Program Design in Scala </li><li>📚 Functional Programming Principles in Scala </li><li>📚 Docker Security & DevSecOps </li><li>📚 Professional Scrum Master (PSM) I </li><li>📚 ITIL Foundation Certifiate in IT Service Management</li><li>📚 Official SAP: Introduction to SAP BW</li>"
+      "summary": "For other trainings (& certifications) on leadership and engineering skills, see my LinkedIn profile. <li>📚 Introduction to Generative AI (Google) </li><li>📚 Hiring and Supporting Neurodiversity in the Workplace </li><li>📚 AWS Foundation </li><li>📚 GraphQL Developer Associate </li><li>📚 React </li> <li>📚 Neo4j </li><li>📚 MERN Stack Front to Back </li><li>📚 Functional Program Design in Scala </li><li>📚 Functional Programming Principles in Scala </li><li>📚 Docker Security & DevSecOps </li><li>📚 Professional Scrum Master (PSM) I </li><li>📚 ITIL Foundation Certifiate in IT Service Management</li><li>📚 Official SAP: Introduction to SAP BW</li>"
     }
   ],
 

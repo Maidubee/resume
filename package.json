@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-
     "@vitejs/plugin-react": "^4.2.1",
     "luxon": "^2.1.1",
     "react": "^17.0.2",
@@ -12,8 +11,7 @@
     "sass": "^1.43.4",
     "vite": "^5.2.10",
     "vite-tsconfig-paths": "^4.3.2",
-    "web-vitals": "^2.1.2",
-
+    "web-vitals": "^2.1.2"
   },
   "scripts": {
     "dev": "vite",

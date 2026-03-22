@@ -6,7 +6,7 @@
     "email": "bianca@vanrijn.dev",
     "phone": "",
     "website": "https://bianca.vanrijn.dev",
-    "summary": "<i><b>Seasoned technical leader </b> with extensive experience in high-scale, modern software engineering and legacy system transformation. Proven track record in <b>architecture and cloud migration</b> leadership across Azure and AWS. Strong cross-platform expertise spanning SaaS, ERP, and low-code platforms, with sound knowledge of both <b>greenfield and brownfield</b> environments.</i>",
+    "summary": "<i><b>Seasoned technical leader </b> with extensive experience in high-scale, modern software engineering and legacy system transformation. Proven track record in <b>architecture and cloud migration</b> leadership across Azure and AWS. Strong cross-platform expertise.</i>",
     "location": {
       "address": "",
       "postalCode": "",
@@ -49,7 +49,7 @@
       "position": "Engineering Manager",
       "website": "http://booking.com",
       "startDate": "2022",
-      "summary": "<ul><li>Lead and manage a team of 10+ engineers to ensure high-availability and scalability of critical services. (~180 million new messages per month)</li><li>Continuously consulting with customers (e.g. hotels, OTAs, providers, partners) to validate demand, understand pain points, and integrate early feedback into the product lifecycle for optimizing customer experience.</li><li>Ensuring compliance with risk management standards by monitoring and adapting processes to align with the requirements of the (EU) Digital Markets Act.</li> <li>Develop and implement technology strategies and technical roadmaps for the next 3-5 years, collaborating with interdisciplinary experts and top executives to align solutions with business strategic needs and enhance client capabilities while having the ownership of delivery timelines and cloud budgets (AWS).</li> <li>Through cloud adoption, prioritise API-led modernizations to improve system reliability and promote a culture of continuous improvement.</li> <li>Embrace best practices in software engineering, utilising advanced technologies like GraphQL, ML models and AWS (serverless and event-driven architecture) to pioneer industry standards and enable scale.</li> <li>Implemented the 'Request to Book' feature across teams, aligning with industry benchmarks, strategic and customer needs.</li> <li>Successfully led and designed the first production implementation of multiple innovative genAI use cases within the company, enhancing client capabilities and pioneering new technologies.</li> <li>Coach and mentor two Engineering Managers, focusing on feedback delivery and managing complex conversations.</li> <li>Contribute - as EM representative for the Business Unit - on a company-wide technical initiative, Shift Left, to develop strategy and meet company objectives, collaborating with stakeholder groups. Initiative reporting to VP level: clear and impactful communicator with the ability to engage and influence executive-level stakeholders.</li> <li>Engage effectively with customers and stakeholders at all scales, presenting technical strategies and improvements that align with business needs and ensuring requirements and proposed solutions are clearly understood and fully leveraged.</li> <li>Technical leadership, plan, and supervise team activities, delegating tasks efficiently to maintain high team morale and foster development within the department.</li><li>Supported organisation of internal Booking Tech Summit, where I moderated multiple roundtable discussions, and participated as speaker and point of contact at partner (customer) events and conferences.</li></ul>",
+      "summary": "<ul><li>Lead and manage a team of 10-12 engineers to ensure high-availability and scalability of critical services, in a highly complext environment. (~180 million new messages per month)</li<li>Leading test efforts as Test Pioneer and Test Responsible at track level (QSA), driving test activities and distributing workload across all teams within the track.</li><li>Continuously consulting & working closely together with partners (e.g. hotels, OTAs, providers) to validate demand, understand pain points, and integrate early feedback into the product lifecycle for optimizing customer experience.</li><li>Ensuring compliance with risk management standards by monitoring and adapting processes to align with the requirements of the (EU) Digital Markets Act.</li> <li>Assessed the existing technology landscape maturity, defined the north star vision and roadmap, and successfully delivered the majority of the 3–5 year technology strategy. Partnered with interdisciplinary experts and senior leadership to align technical solutions with business objectives, with full ownership of delivery timelines and AWS cloud budgets.</li> <li>Early cloud adopter, prioritise API-led modernizations to improve system reliability and promote a culture of continuous improvement.</li> <li>Embrace best practices in software engineering, utilising advanced technologies like GraphQL, ML models and AWS (serverless and event-driven architecture) to pioneer industry standards and enable scale.</li> <li>Implemented the 'Request to Book' feature across teams, aligning with industry benchmarks, strategic and partner needs.</li> <li>Successfully led and designed the first production implementation of multiple innovative genAI & agentic workflow use cases within the company, enhancing client capabilities and pioneering new technologies.</li> <li>Coached and mentored multiple Engineering Managers, focusing on feedback delivery and managing complex conversations.</li> <li>Contribute - as Marketplace representative - on a company-wide technical initiative, Shift Left, to develop strategy and meet company objectives, collaborating with stakeholder groups. Initiative reporting to VP level: clear and impactful communicator with the ability to engage and influence executive-level stakeholders.</li> <li>Engage effectively with customers and stakeholders at all scales, presenting technical strategies and improvements that align with business needs and ensuring requirements and proposed solutions are clearly understood and fully leveraged.</li> <li>Technical leadership, plan, and supervise team activities, delegating tasks efficiently to maintain high team morale and foster development within the department.</li><li>Supported organisation of internal Booking Tech Summit, where I moderated multiple roundtable discussions, and participated as speaker and point of contact at partner (customer) events and conferences, together with Group Product Manager.</li></ul>",
       "location": "Amsterdam, NL"
     },
 
@@ -60,7 +60,7 @@
       "website": "http://ing.nl",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "<ul><li>Directed and supervised a diverse team of 15-19 engineers across 4 squads (internal, onshore, offshore), demonstrating cross-cultural leadership and ownership of a key component of the largest banking app in the Netherlands.</li> <li>Reported to governmental institutions, including the Dutch National Bank (DNB) and the European Central Bank (ECB), ensuring compliance with regulatory requirements and maintaining transparent communication as well as satisfying risk management obligations</li> <li>Initiated and developed a 'Testing as a Service' team, addressing gaps in end-to-end testing and enhancing quality practices across the IT Area.</li> <li>Managed diverse tech stack, including Java APIs, legacy systems, Pega, and various DevOps tools (internal cloud and Azure DevOps).</li> <li>Led and organised strategic events with over 120 participants to ensure team alignment and progress awareness across two countries.</li> <li>Collaborated with the Risk department to resolve 800 findings, establishing risk management processes and appointing risk champions.</li> <li>Developed and implemented a custom dashboard for monitoring controls, enhancing client capabilities and ensuring adoption across multiple tracks.</li> <li>Facilitated stakeholder engagement through regular risk meetings and weekly bulletins to maintain transparency and compliance.</li></ul>",
+      "summary": "<ul><li>Directed and supervised a diverse team of 19-23 engineers across 4 squads (internal, onshore, offshore), demonstrating cross-cultural leadership and ownership of a key component of the largest banking app in the Netherlands.</li> <li>Reported to governmental institutions, including the Dutch National Bank (DNB) and the European Central Bank (ECB), ensuring compliance with regulatory requirements and maintaining transparent communication as well as satisfying risk management obligations</li> <li>Initiated and developed a 'Testing as a Service' team, addressing gaps in end-to-end testing and enhancing quality practices across the IT Area (Track).</li> <li>Managed diverse tech stack, including Java APIs, legacy systems, Pega, and various DevOps tools (internal cloud and Azure DevOps).</li> <li>Led and organised strategic events with over 120 participants to ensure team alignment and progress awareness across two countries.</li> <li>Collaborated with the Risk department to resolve 800 findings, establishing risk management processes and appointing risk champions.</li> <li>Developed and implemented a custom dashboard for monitoring controls, enhancing client capabilities and ensuring adoption across multiple tracks.</li> <li>Facilitated stakeholder engagement through regular risk meetings and weekly bulletins to maintain transparency and compliance.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -76,11 +76,11 @@
     {
       "name": "Enterprise Architecture & Innovation",
       "company": "ING Netherlands",
-      "position": "Information Architect & Product Owner",
+      "position": "Information Architect & Product Manager (Dual Role)",
       "website": "http://ing.com",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "<ul><li>Spearheaded development of an internal analytical platform (from scratch), to visualize and analyse API and interface communication flows, leading solution architecting. Also followed market trends and implemented the first graph database.</li> <li>Led a multidisciplinary team to develop and deploy the MVP into production, aligning with business needs.</li> <li>Designed the software’s architectural framework aligned with TOGAF principles, ensuring seamless integration within the broader enterprise ecosystem.</li></ul>",
+      "summary": "<ul><li>Spearheaded development of an internal analytical platform (concept to delivery, at scale), to visualize and analyse API and interface communication flows, leading solution architecting. Also followed market trends and implemented the first graph database.</li> <li>Led a multidisciplinary team to develop and deploy the MVP into production, aligning with business needs.</li> <li>Designed the software’s architectural framework aligned with TOGAF & UX principles, ensuring seamless integration within the broader enterprise ecosystem.</li><li>Drove iterative refinement of solutions through customer-centric methodologies, personally leading design sprint workshops to validate and align deliverables with customer needs.</li></ul>",
       "location": "Amsterdam, NL"
     },
     {
@@ -131,7 +131,7 @@
       "organization": "Nuremberg Institute of Technology (GSO)",
       "startDate": "2013",
       "endDate": "2014",
-      "summary": "I volunteered for the university as a buddy for international exchange students. I helped them find their way around the German education system, the city and bureacracy (e.g. bank appointments, registering in the city).",
+      "summary": "Volunteered for the university as a buddy for international exchange students. I helped them find their way around the German education system, the city and bureacracy (e.g. bank appointments, registering in the city).",
       "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "Managing People Program (MPP) and B.Champion Program ",
       "organization": "Booking.com",
-      "summary": "Both are internal Booking.com programs, each spanning six months with one half-day per week, plus 1:1 coaching sessions. Examples of topics covered include talent management, feedback, influencing organizations and stakeholder management. The B.Champion program, specifically targets women in IT to assist with career progression."
+      "summary": "Completed two six-month internal leadership programmes featuring weekly half-day sessions and 1:1 coaching, covering talent management, feedback, stakeholder management, and organisational influence. Chosen for B.Champion, a selective career acceleration programme for women in IT."
     },
     {
       "name": "Think Forward Leadership Experience ",
@@ -174,7 +174,7 @@
     {
       "name": "ING International Talent Programme",
       "organization": "ING",
-      "summary": "The international talent programme provided 3 global learning events with different sessions and trainings about personal growth and leadership skills, as well as the opportunity to work abroad."
+      "summary": "Selected among top talent for an international development programme comprising three global two-week leadership intensives and an international placement."
     },
     {
       "name": "Other trainings",
@@ -342,7 +342,9 @@
       "startDate": { "month": 11, "year": 2019 },
       "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
       "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
-      "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
+      "images": [
+        { "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }
+      ],
       "link": "https://lovely-movie.netlify.app/",
       "name": "Lovely Movie",
       "endDate": "2019-12-01"
